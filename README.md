@@ -1,8 +1,10 @@
 Netflix Data Visualization using Python
+
 A beginner-friendly exploratory data analysis (EDA) project that uses Pandas to clean and summarize Netflix-style catalog data and Matplotlib to create six visualizations.
 Dataset note: The included netflix_titles.csv is a synthetic sample dataset for testing, not an official or current Netflix catalog. Do not interpret the charts as real Netflix business statistics.
 
-Project overview
+Project overview:
+
 This project explores:
 1. Movies vs TV Shows: Counts by content type (bar chart).
 2. Content ratings: Distribution of audience ratings (pie chart).
@@ -16,6 +18,7 @@ Tech stack
 - Pandas
 - Matplotlib
 Folder structure
+
 Netflix-Data-Visualization/
 ├── netflix_data_visualization.py
 ├── netflix_titles.csv
@@ -26,8 +29,10 @@ Netflix-Data-Visualization/
 ├── release_year_scatter.png
 ├── top10_Countries.png
 └── movies_tv_comparison.png
+
 The PNG files are created when you run the script. The exact filenames depend on the plt.savefig(...) statements in your code.
 Getting started
+
 1. Clone your repository and enter the project directory:
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
