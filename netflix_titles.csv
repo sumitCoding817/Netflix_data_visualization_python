@@ -1,0 +1,801 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Sample Film 0001,Director 61,Actor 132,Spain,"March 17, 2019",2003,R,165 min,Dramas,Synthetic sample record for learning data visualization.
+s2,Movie,Sample Film 0002,Director 30,Actor 60,United States,"January 14, 2020",1977,TV-Y7,143 min,International Movies,Synthetic sample record for learning data visualization.
+s3,Movie,Sample Film 0003,Director 48,Actor 6,United States,"March 24, 2021",2016,TV-14,80 min,Dramas,Synthetic sample record for learning data visualization.
+s4,Movie,Sample Film 0004,Director 24,Actor 10,France,"September 28, 2021",2006,R,74 min,Comedies,Synthetic sample record for learning data visualization.
+s5,Movie,Sample Film 0005,Director 72,Actor 100,United States,"March 11, 2016",1954,TV-Y7,102 min,Documentaries,Synthetic sample record for learning data visualization.
+s6,TV Show,Sample Series 0006,Director 4,Actor 24,Spain,"March 23, 2020",2005,TV-G,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s7,Movie,Sample Film 0007,Director 80,Actor 29,Australia,"March 22, 2016",2021,PG,171 min,Documentaries,Synthetic sample record for learning data visualization.
+s8,Movie,Sample Film 0008,Director 23,Actor 110,"Japan, United States","June 6, 2020",2004,TV-MA,151 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s9,TV Show,Sample Series 0009,Director 76,Actor 4,United Kingdom,"June 16, 2019",1976,TV-Y7,4 Season,Comedies,Synthetic sample record for learning data visualization.
+s10,Movie,Sample Film 0010,Director 7,Actor 67,"Spain, South Korea","June 2, 2018",2011,R,86 min,International Movies,Synthetic sample record for learning data visualization.
+s11,Movie,Sample Film 0011,Director 62,Actor 13,United Kingdom,"June 5, 2020",1994,TV-G,68 min,Comedies,Synthetic sample record for learning data visualization.
+s12,TV Show,Sample Series 0012,Director 55,Actor 125,Canada,"December 28, 2018",1994,PG-13,3 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s13,Movie,Sample Film 0013,Director 4,Actor 68,United Kingdom,"December 11, 2020",2009,R,174 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s14,Movie,Sample Film 0014,Director 51,Actor 25,United Kingdom,"March 1, 2020",1993,TV-G,165 min,Comedies,Synthetic sample record for learning data visualization.
+s15,Movie,Sample Film 0015,Director 42,Actor 102,United Kingdom,"September 8, 2019",2003,TV-PG,88 min,Comedies,Synthetic sample record for learning data visualization.
+s16,TV Show,Sample Series 0016,Director 65,Actor 15,India,"January 13, 2018",2020,TV-14,7 Season,Comedies,Synthetic sample record for learning data visualization.
+s17,TV Show,Sample Series 0017,Director 20,Actor 80,India,"June 27, 2019",2005,TV-G,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s18,Movie,Sample Film 0018,Director 80,Actor 135,South Korea,"December 7, 2015",2018,PG,90 min,Documentaries,Synthetic sample record for learning data visualization.
+s19,Movie,Sample Film 0019,Director 10,Actor 115,United States,"December 20, 2015",2011,TV-G,125 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s20,Movie,Sample Film 0020,Director 6,Actor 64,"Japan, Spain","June 23, 2019",1954,TV-Y7,157 min,International Movies,Synthetic sample record for learning data visualization.
+s21,Movie,Sample Film 0021,Director 11,Actor 10,Canada,"September 6, 2018",2009,PG,156 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s22,TV Show,Sample Series 0022,Director 64,Actor 99,Japan,"June 20, 2018",2001,TV-MA,3 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s23,TV Show,Sample Series 0023,Director 67,Actor 78,Germany,"December 13, 2020",1990,TV-G,2 Season,Comedies,Synthetic sample record for learning data visualization.
+s24,TV Show,Sample Series 0024,Director 25,Actor 67,Canada,"January 1, 2017",2006,PG-13,3 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s25,Movie,Sample Film 0025,Director 51,Actor 120,France,"September 14, 2018",2002,PG-13,150 min,Comedies,Synthetic sample record for learning data visualization.
+s26,Movie,Sample Film 0026,Director 28,Actor 9,Japan,"June 26, 2020",1991,PG,67 min,Dramas,Synthetic sample record for learning data visualization.
+s27,Movie,Sample Film 0027,Director 1,Actor 140,Spain,"March 4, 2017",2013,R,123 min,Documentaries,Synthetic sample record for learning data visualization.
+s28,TV Show,Sample Series 0028,Director 56,Actor 136,Australia,"January 10, 2016",1993,TV-Y7,7 Season,Comedies,Synthetic sample record for learning data visualization.
+s29,Movie,Sample Film 0029,Director 10,Actor 21,India,"September 27, 2020",2014,R,84 min,Dramas,Synthetic sample record for learning data visualization.
+s30,Movie,Sample Film 0030,Director 44,Actor 40,Australia,"June 5, 2017",2019,PG-13,103 min,Dramas,Synthetic sample record for learning data visualization.
+s31,TV Show,Sample Series 0031,Director 25,Actor 93,United Kingdom,"June 12, 2015",1989,TV-PG,1 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s32,TV Show,Sample Series 0032,Director 69,Actor 65,"India, France","September 7, 2020",1995,R,7 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s33,Movie,Sample Film 0033,Director 23,Actor 6,Australia,"June 16, 2018",2007,TV-PG,175 min,International Movies,Synthetic sample record for learning data visualization.
+s34,TV Show,Sample Series 0034,Director 79,Actor 137,Japan,"December 4, 2017",1953,TV-Y7,4 Season,Documentaries,Synthetic sample record for learning data visualization.
+s35,Movie,Sample Film 0035,Director 21,Actor 47,"Australia, France","December 17, 2018",2001,R,93 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s36,Movie,Sample Film 0036,Director 77,Actor 46,United States,"June 18, 2020",2008,PG,138 min,Comedies,Synthetic sample record for learning data visualization.
+s37,TV Show,Sample Series 0037,Director 28,Actor 137,Japan,"December 12, 2019",1951,PG-13,2 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s38,Movie,Sample Film 0038,Director 33,Actor 48,Japan,"September 27, 2018",2016,R,127 min,International Movies,Synthetic sample record for learning data visualization.
+s39,Movie,Sample Film 0039,Director 76,Actor 113,"Japan, France","June 24, 2016",2014,R,85 min,International Movies,Synthetic sample record for learning data visualization.
+s40,Movie,Sample Film 0040,Director 59,Actor 51,Australia,"September 8, 2021",2003,TV-G,151 min,Dramas,Synthetic sample record for learning data visualization.
+s41,Movie,Sample Film 0041,Director 46,Actor 100,Spain,"December 21, 2018",1958,TV-14,175 min,Documentaries,Synthetic sample record for learning data visualization.
+s42,TV Show,Sample Series 0042,Director 26,Actor 86,Spain,"January 24, 2017",2001,R,3 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s43,Movie,Sample Film 0043,Director 64,Actor 127,Germany,"March 2, 2020",1998,PG,182 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s44,Movie,Sample Film 0044,Director 8,Actor 32,"South Korea, Spain","December 21, 2019",1994,TV-MA,157 min,Comedies,Synthetic sample record for learning data visualization.
+s45,Movie,Sample Film 0045,Director 48,Actor 111,Germany,"January 21, 2017",2017,TV-PG,109 min,International Movies,Synthetic sample record for learning data visualization.
+s46,TV Show,Sample Series 0046,Director 57,Actor 60,Germany,"January 28, 2020",2014,TV-G,4 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s47,TV Show,Sample Series 0047,Director 42,Actor 85,"United Kingdom, Canada","June 7, 2015",1994,TV-G,3 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s48,Movie,Sample Film 0048,Director 15,Actor 104,"Germany, Australia","January 25, 2015",1999,R,154 min,Comedies,Synthetic sample record for learning data visualization.
+s49,Movie,Sample Film 0049,Director 13,Actor 63,Japan,"March 14, 2019",2000,TV-MA,116 min,Documentaries,Synthetic sample record for learning data visualization.
+s50,TV Show,Sample Series 0050,Director 6,Actor 104,"France, Germany","December 16, 2016",2007,TV-MA,2 Season,Documentaries,Synthetic sample record for learning data visualization.
+s51,TV Show,Sample Series 0051,Director 48,Actor 126,United Kingdom,"June 13, 2021",2018,PG-13,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s52,Movie,Sample Film 0052,Director 50,Actor 29,United Kingdom,"June 22, 2020",1993,TV-G,181 min,Comedies,Synthetic sample record for learning data visualization.
+s53,Movie,Sample Film 0053,Director 61,Actor 56,Germany,"December 12, 2020",2012,R,70 min,International Movies,Synthetic sample record for learning data visualization.
+s54,Movie,Sample Film 0054,Director 3,Actor 109,United Kingdom,"December 7, 2016",2012,TV-MA,92 min,Comedies,Synthetic sample record for learning data visualization.
+s55,Movie,Sample Film 0055,Director 58,Actor 64,Japan,"June 17, 2021",1950,TV-Y7,89 min,Documentaries,Synthetic sample record for learning data visualization.
+s56,TV Show,Sample Series 0056,Director 43,Actor 95,Canada,"March 10, 2020",1961,TV-14,1 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s57,Movie,Sample Film 0057,Director 35,Actor 55,"France, South Korea","December 25, 2020",1995,R,166 min,Dramas,Synthetic sample record for learning data visualization.
+s58,TV Show,Sample Series 0058,Director 66,Actor 55,Japan,"March 21, 2018",1974,TV-Y7,5 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s59,Movie,Sample Film 0059,Director 15,Actor 122,United States,"January 3, 2020",1985,PG,79 min,Comedies,Synthetic sample record for learning data visualization.
+s60,Movie,Sample Film 0060,Director 51,Actor 142,South Korea,"January 9, 2017",2013,TV-MA,154 min,International Movies,Synthetic sample record for learning data visualization.
+s61,TV Show,Sample Series 0061,Director 41,Actor 68,Spain,"June 5, 2019",1966,PG,6 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s62,TV Show,Sample Series 0062,Director 6,Actor 43,India,"June 23, 2016",1995,TV-MA,1 Season,Comedies,Synthetic sample record for learning data visualization.
+s63,Movie,Sample Film 0063,Director 80,Actor 44,United Kingdom,"December 25, 2016",1999,TV-14,87 min,Documentaries,Synthetic sample record for learning data visualization.
+s64,Movie,Sample Film 0064,Director 38,Actor 11,France,"March 10, 2017",2010,R,103 min,International Movies,Synthetic sample record for learning data visualization.
+s65,TV Show,Sample Series 0065,Director 60,Actor 118,Australia,"March 6, 2020",1990,TV-G,1 Season,International Movies,Synthetic sample record for learning data visualization.
+s66,Movie,Sample Film 0066,Director 16,Actor 3,United Kingdom,"January 10, 2019",2016,TV-PG,157 min,Dramas,Synthetic sample record for learning data visualization.
+s67,Movie,Sample Film 0067,Director 47,Actor 102,United States,"September 16, 2020",2013,PG-13,88 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s68,Movie,Sample Film 0068,Director 21,Actor 106,"South Korea, United Kingdom","June 18, 2017",1999,PG,115 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s69,TV Show,Sample Series 0069,Director 26,Actor 62,India,"September 11, 2018",2017,PG-13,4 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s70,Movie,Sample Film 0070,Director 76,Actor 124,Canada,"December 14, 2021",2021,R,145 min,Documentaries,Synthetic sample record for learning data visualization.
+s71,Movie,Sample Film 0071,Director 22,Actor 25,Germany,"March 9, 2021",2019,TV-G,119 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s72,Movie,Sample Film 0072,Director 15,Actor 76,United States,"December 3, 2016",2001,TV-PG,154 min,Dramas,Synthetic sample record for learning data visualization.
+s73,Movie,Sample Film 0073,Director 51,Actor 67,France,"December 23, 2016",2000,TV-Y7,89 min,Dramas,Synthetic sample record for learning data visualization.
+s74,TV Show,Sample Series 0074,Director 34,Actor 102,Japan,"September 10, 2019",1976,R,1 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s75,Movie,Sample Film 0075,Director 30,Actor 48,"Germany, United Kingdom","January 11, 2020",2012,R,86 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s76,Movie,Sample Film 0076,Director 62,Actor 146,India,"December 6, 2016",1990,TV-Y7,113 min,Documentaries,Synthetic sample record for learning data visualization.
+s77,Movie,Sample Film 0077,Director 76,Actor 98,United Kingdom,"September 6, 2018",1995,TV-Y7,108 min,Dramas,Synthetic sample record for learning data visualization.
+s78,Movie,Sample Film 0078,Director 6,Actor 30,"United Kingdom, France","September 26, 2020",2017,PG,135 min,International Movies,Synthetic sample record for learning data visualization.
+s79,TV Show,Sample Series 0079,Director 74,Actor 65,"France, Australia","March 12, 2019",1990,TV-G,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s80,Movie,Sample Film 0080,Director 80,Actor 15,Spain,"September 8, 2020",2013,TV-MA,163 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s81,Movie,Sample Film 0081,Director 55,Actor 60,Australia,"September 13, 2017",2002,R,105 min,Documentaries,Synthetic sample record for learning data visualization.
+s82,TV Show,Sample Series 0082,Director 36,Actor 18,"Spain, United States","January 16, 2020",2003,TV-G,6 Season,International Movies,Synthetic sample record for learning data visualization.
+s83,Movie,Sample Film 0083,Director 18,Actor 46,United States,"December 24, 2015",2001,R,112 min,International Movies,Synthetic sample record for learning data visualization.
+s84,Movie,Sample Film 0084,Director 67,Actor 38,France,"January 26, 2019",1982,TV-Y7,156 min,International Movies,Synthetic sample record for learning data visualization.
+s85,Movie,Sample Film 0085,Director 3,Actor 44,South Korea,"March 2, 2017",1999,TV-Y7,141 min,Comedies,Synthetic sample record for learning data visualization.
+s86,Movie,Sample Film 0086,Director 35,Actor 10,United States,"March 16, 2021",1968,TV-Y7,119 min,Documentaries,Synthetic sample record for learning data visualization.
+s87,Movie,Sample Film 0087,Director 5,Actor 125,"India, Japan","December 19, 2018",1967,PG,155 min,International Movies,Synthetic sample record for learning data visualization.
+s88,TV Show,Sample Series 0088,Director 41,Actor 79,India,"March 24, 2015",1967,TV-PG,3 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s89,Movie,Sample Film 0089,Director 11,Actor 67,Japan,"September 23, 2020",2018,TV-14,166 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s90,Movie,Sample Film 0090,Director 44,Actor 63,United States,"December 22, 2017",2001,R,65 min,Comedies,Synthetic sample record for learning data visualization.
+s91,TV Show,Sample Series 0091,Director 68,Actor 4,Australia,"September 9, 2015",2010,TV-PG,3 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s92,Movie,Sample Film 0092,Director 26,Actor 52,Spain,"June 28, 2018",1964,PG,71 min,Comedies,Synthetic sample record for learning data visualization.
+s93,Movie,Sample Film 0093,Director 50,Actor 95,South Korea,"March 28, 2021",2011,TV-PG,176 min,Documentaries,Synthetic sample record for learning data visualization.
+s94,TV Show,Sample Series 0094,Director 70,Actor 148,Japan,"September 8, 2020",2002,PG,6 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s95,TV Show,Sample Series 0095,Director 55,Actor 117,Spain,"December 5, 2021",1987,TV-Y7,7 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s96,Movie,Sample Film 0096,Director 16,Actor 143,"Germany, Spain","December 14, 2017",1983,PG-13,119 min,Dramas,Synthetic sample record for learning data visualization.
+s97,Movie,Sample Film 0097,Director 24,Actor 18,South Korea,"June 11, 2018",2000,PG,121 min,Comedies,Synthetic sample record for learning data visualization.
+s98,TV Show,Sample Series 0098,Director 66,Actor 48,Spain,"December 27, 2016",1972,TV-G,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s99,Movie,Sample Film 0099,Director 71,Actor 122,Australia,"September 11, 2015",2013,R,113 min,Documentaries,Synthetic sample record for learning data visualization.
+s100,Movie,Sample Film 0100,Director 48,Actor 77,India,"December 26, 2017",2018,TV-MA,87 min,Dramas,Synthetic sample record for learning data visualization.
+s101,Movie,Sample Film 0101,Director 56,Actor 19,"United States, South Korea","December 22, 2018",1995,TV-PG,144 min,Comedies,Synthetic sample record for learning data visualization.
+s102,Movie,Sample Film 0102,Director 5,Actor 35,Spain,"September 22, 2018",1990,R,82 min,Dramas,Synthetic sample record for learning data visualization.
+s103,TV Show,Sample Series 0103,Director 40,Actor 132,United Kingdom,"January 10, 2016",2007,TV-Y7,6 Season,Dramas,Synthetic sample record for learning data visualization.
+s104,TV Show,Sample Series 0104,Director 40,Actor 11,Germany,"September 8, 2015",2020,TV-PG,5 Season,International Movies,Synthetic sample record for learning data visualization.
+s105,TV Show,Sample Series 0105,Director 69,Actor 24,Canada,"December 28, 2015",2019,PG-13,4 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s106,TV Show,Sample Series 0106,Director 20,Actor 87,India,"December 14, 2015",1973,TV-PG,5 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s107,Movie,Sample Film 0107,Director 24,Actor 34,Japan,"September 21, 2019",1988,TV-G,130 min,Dramas,Synthetic sample record for learning data visualization.
+s108,Movie,Sample Film 0108,Director 10,Actor 112,"United Kingdom, France","January 10, 2021",1995,PG,147 min,Documentaries,Synthetic sample record for learning data visualization.
+s109,TV Show,Sample Series 0109,Director 65,Actor 123,Canada,"June 6, 2018",1998,PG-13,2 Season,Comedies,Synthetic sample record for learning data visualization.
+s110,Movie,Sample Film 0110,Director 36,Actor 141,Australia,"June 7, 2018",2012,TV-Y7,134 min,International Movies,Synthetic sample record for learning data visualization.
+s111,Movie,Sample Film 0111,Director 57,Actor 116,United States,"June 24, 2018",1964,TV-14,182 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s112,TV Show,Sample Series 0112,Director 25,Actor 26,"Australia, Japan","January 8, 2015",2004,PG,1 Season,Dramas,Synthetic sample record for learning data visualization.
+s113,Movie,Sample Film 0113,Director 16,Actor 56,Australia,"June 26, 2019",2017,TV-G,65 min,Documentaries,Synthetic sample record for learning data visualization.
+s114,TV Show,Sample Series 0114,Director 32,Actor 132,United Kingdom,"December 28, 2018",2014,R,8 Season,Documentaries,Synthetic sample record for learning data visualization.
+s115,Movie,Sample Film 0115,Director 39,Actor 96,United Kingdom,"March 19, 2018",1965,TV-G,181 min,Dramas,Synthetic sample record for learning data visualization.
+s116,TV Show,Sample Series 0116,Director 11,Actor 115,France,"January 12, 2016",2000,PG,8 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s117,Movie,Sample Film 0117,Director 75,Actor 12,"United Kingdom, India","September 21, 2015",2016,TV-PG,66 min,Comedies,Synthetic sample record for learning data visualization.
+s118,Movie,Sample Film 0118,Director 19,Actor 63,Australia,"December 9, 2017",2006,TV-Y7,157 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s119,Movie,Sample Film 0119,Director 77,Actor 135,Spain,"June 4, 2017",2011,PG,69 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s120,Movie,Sample Film 0120,Director 4,Actor 3,"Japan, South Korea","March 26, 2015",2010,TV-MA,127 min,International Movies,Synthetic sample record for learning data visualization.
+s121,Movie,Sample Film 0121,Director 56,Actor 41,France,"March 28, 2019",1975,TV-14,137 min,Comedies,Synthetic sample record for learning data visualization.
+s122,Movie,Sample Film 0122,Director 46,Actor 63,Australia,"March 23, 2015",1990,TV-MA,156 min,Dramas,Synthetic sample record for learning data visualization.
+s123,Movie,Sample Film 0123,Director 32,Actor 84,India,"December 22, 2018",2010,TV-PG,84 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s124,Movie,Sample Film 0124,Director 14,Actor 30,India,"September 15, 2015",1999,TV-14,141 min,International Movies,Synthetic sample record for learning data visualization.
+s125,Movie,Sample Film 0125,Director 15,Actor 58,United Kingdom,"December 24, 2016",2002,TV-14,159 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s126,TV Show,Sample Series 0126,Director 9,Actor 2,Spain,"December 26, 2018",2018,PG-13,8 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s127,Movie,Sample Film 0127,Director 44,Actor 69,Australia,"December 16, 2017",2021,TV-G,175 min,Dramas,Synthetic sample record for learning data visualization.
+s128,TV Show,Sample Series 0128,Director 11,Actor 86,Australia,"June 6, 2018",1997,PG-13,2 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s129,TV Show,Sample Series 0129,Director 48,Actor 6,South Korea,"March 3, 2016",2000,TV-Y7,1 Season,International Movies,Synthetic sample record for learning data visualization.
+s130,Movie,Sample Film 0130,Director 74,Actor 107,Canada,"March 15, 2015",1980,TV-14,97 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s131,Movie,Sample Film 0131,Director 44,Actor 27,Japan,"March 27, 2021",1975,TV-MA,170 min,Comedies,Synthetic sample record for learning data visualization.
+s132,Movie,Sample Film 0132,Director 46,Actor 20,"United States, Canada","March 15, 2020",2007,TV-PG,136 min,Dramas,Synthetic sample record for learning data visualization.
+s133,Movie,Sample Film 0133,Director 61,Actor 16,India,"September 2, 2016",2008,TV-14,101 min,Dramas,Synthetic sample record for learning data visualization.
+s134,TV Show,Sample Series 0134,Director 21,Actor 52,United States,"September 20, 2021",1999,R,6 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s135,TV Show,Sample Series 0135,Director 7,Actor 112,"India, United States","June 15, 2019",1951,TV-PG,7 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s136,Movie,Sample Film 0136,Director 46,Actor 130,Spain,"September 11, 2021",2018,TV-14,83 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s137,TV Show,Sample Series 0137,Director 15,Actor 57,United States,"June 3, 2020",2011,PG,3 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s138,TV Show,Sample Series 0138,Director 11,Actor 33,United States,"March 28, 2017",2009,TV-PG,3 Season,Documentaries,Synthetic sample record for learning data visualization.
+s139,Movie,Sample Film 0139,Director 7,Actor 40,Australia,"January 22, 2021",1995,TV-14,112 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s140,Movie,Sample Film 0140,Director 66,Actor 65,France,"January 7, 2017",1992,TV-MA,159 min,Comedies,Synthetic sample record for learning data visualization.
+s141,TV Show,Sample Series 0141,Director 53,Actor 49,United Kingdom,"September 6, 2017",1992,R,7 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s142,Movie,Sample Film 0142,Director 13,Actor 92,Canada,"June 16, 2021",1993,TV-Y7,141 min,International Movies,Synthetic sample record for learning data visualization.
+s143,Movie,Sample Film 0143,Director 9,Actor 117,United States,"September 21, 2016",1997,R,94 min,International Movies,Synthetic sample record for learning data visualization.
+s144,TV Show,Sample Series 0144,Director 58,Actor 42,"United States, South Korea","March 21, 2016",2021,TV-Y7,7 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s145,Movie,Sample Film 0145,Director 43,Actor 106,Germany,"June 9, 2019",1964,R,102 min,Comedies,Synthetic sample record for learning data visualization.
+s146,Movie,Sample Film 0146,Director 67,Actor 84,Australia,"March 15, 2021",1992,TV-Y7,154 min,Dramas,Synthetic sample record for learning data visualization.
+s147,Movie,Sample Film 0147,Director 33,Actor 41,Australia,"September 15, 2021",1984,PG-13,80 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s148,TV Show,Sample Series 0148,Director 69,Actor 4,Australia,"March 22, 2021",2018,PG-13,5 Season,International Movies,Synthetic sample record for learning data visualization.
+s149,Movie,Sample Film 0149,Director 59,Actor 145,United States,"December 1, 2018",1988,TV-PG,108 min,International Movies,Synthetic sample record for learning data visualization.
+s150,Movie,Sample Film 0150,Director 23,Actor 22,Germany,"September 24, 2021",2018,TV-G,161 min,International Movies,Synthetic sample record for learning data visualization.
+s151,TV Show,Sample Series 0151,Director 36,Actor 63,United States,"June 7, 2019",1987,PG,8 Season,Documentaries,Synthetic sample record for learning data visualization.
+s152,Movie,Sample Film 0152,Director 69,Actor 133,South Korea,"December 16, 2019",1994,TV-PG,84 min,Documentaries,Synthetic sample record for learning data visualization.
+s153,Movie,Sample Film 0153,Director 8,Actor 86,Spain,"June 14, 2018",1991,TV-Y7,99 min,Comedies,Synthetic sample record for learning data visualization.
+s154,Movie,Sample Film 0154,Director 72,Actor 138,United States,"March 7, 2017",2015,TV-PG,67 min,Dramas,Synthetic sample record for learning data visualization.
+s155,Movie,Sample Film 0155,Director 59,Actor 135,United States,"March 17, 2017",1999,R,184 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s156,Movie,Sample Film 0156,Director 52,Actor 106,United Kingdom,"March 8, 2016",2008,TV-14,128 min,Comedies,Synthetic sample record for learning data visualization.
+s157,Movie,Sample Film 0157,Director 48,Actor 133,France,"January 12, 2015",2021,R,156 min,Comedies,Synthetic sample record for learning data visualization.
+s158,TV Show,Sample Series 0158,Director 42,Actor 16,India,"January 11, 2019",1967,TV-PG,8 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s159,Movie,Sample Film 0159,Director 20,Actor 35,Japan,"September 4, 2018",2008,TV-14,115 min,Dramas,Synthetic sample record for learning data visualization.
+s160,Movie,Sample Film 0160,Director 13,Actor 2,Spain,"June 19, 2019",2017,TV-14,147 min,Documentaries,Synthetic sample record for learning data visualization.
+s161,Movie,Sample Film 0161,Director 6,Actor 27,Canada,"June 9, 2015",2005,TV-14,126 min,Documentaries,Synthetic sample record for learning data visualization.
+s162,Movie,Sample Film 0162,Director 6,Actor 138,Germany,"December 20, 2016",1988,R,115 min,Documentaries,Synthetic sample record for learning data visualization.
+s163,Movie,Sample Film 0163,Director 17,Actor 71,Canada,"June 10, 2015",2015,PG,111 min,Documentaries,Synthetic sample record for learning data visualization.
+s164,TV Show,Sample Series 0164,Director 56,Actor 106,United States,"January 15, 2020",2018,TV-PG,2 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s165,Movie,Sample Film 0165,Director 42,Actor 67,France,"September 26, 2019",1990,TV-Y7,112 min,Comedies,Synthetic sample record for learning data visualization.
+s166,TV Show,Sample Series 0166,Director 28,Actor 29,United States,"September 16, 2020",2019,TV-MA,2 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s167,TV Show,Sample Series 0167,Director 48,Actor 71,France,"December 2, 2017",2006,TV-G,3 Season,International Movies,Synthetic sample record for learning data visualization.
+s168,Movie,Sample Film 0168,Director 12,Actor 7,United Kingdom,"September 7, 2015",2019,TV-Y7,157 min,Dramas,Synthetic sample record for learning data visualization.
+s169,Movie,Sample Film 0169,Director 10,Actor 41,Australia,"June 3, 2015",2021,PG-13,145 min,International Movies,Synthetic sample record for learning data visualization.
+s170,TV Show,Sample Series 0170,Director 13,Actor 120,"Australia, United Kingdom","January 4, 2020",2013,TV-G,5 Season,Comedies,Synthetic sample record for learning data visualization.
+s171,Movie,Sample Film 0171,Director 63,Actor 149,United States,"December 1, 2015",1989,TV-Y7,101 min,International Movies,Synthetic sample record for learning data visualization.
+s172,Movie,Sample Film 0172,Director 77,Actor 142,United States,"December 9, 2018",2008,TV-PG,171 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s173,Movie,Sample Film 0173,Director 68,Actor 143,United Kingdom,"March 4, 2017",1985,PG-13,89 min,International Movies,Synthetic sample record for learning data visualization.
+s174,TV Show,Sample Series 0174,Director 20,Actor 99,"United Kingdom, Japan","January 18, 2018",2018,TV-MA,4 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s175,Movie,Sample Film 0175,Director 73,Actor 125,Japan,"January 28, 2020",2017,R,183 min,Dramas,Synthetic sample record for learning data visualization.
+s176,TV Show,Sample Series 0176,Director 7,Actor 142,Germany,"September 5, 2018",2011,PG,2 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s177,Movie,Sample Film 0177,Director 20,Actor 64,Japan,"January 10, 2016",2016,TV-G,82 min,International Movies,Synthetic sample record for learning data visualization.
+s178,TV Show,Sample Series 0178,Director 50,Actor 119,United States,"September 7, 2020",2008,R,3 Season,International Movies,Synthetic sample record for learning data visualization.
+s179,Movie,Sample Film 0179,Director 35,Actor 52,United Kingdom,"March 3, 2016",2016,TV-Y7,158 min,International Movies,Synthetic sample record for learning data visualization.
+s180,TV Show,Sample Series 0180,Director 2,Actor 56,India,"March 22, 2020",2020,PG,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s181,Movie,Sample Film 0181,Director 17,Actor 103,Japan,"December 25, 2020",1983,TV-G,66 min,Dramas,Synthetic sample record for learning data visualization.
+s182,TV Show,Sample Series 0182,Director 44,Actor 95,India,"September 18, 2019",2001,PG-13,3 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s183,TV Show,Sample Series 0183,Director 63,Actor 125,United States,"June 19, 2017",1999,PG,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s184,Movie,Sample Film 0184,Director 62,Actor 79,Canada,"September 5, 2019",2014,TV-G,67 min,Comedies,Synthetic sample record for learning data visualization.
+s185,Movie,Sample Film 0185,Director 76,Actor 130,France,"September 19, 2021",1999,PG-13,162 min,Documentaries,Synthetic sample record for learning data visualization.
+s186,TV Show,Sample Series 0186,Director 76,Actor 139,United States,"January 23, 2021",1988,PG,4 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s187,Movie,Sample Film 0187,Director 64,Actor 47,South Korea,"June 2, 2018",1988,TV-MA,73 min,Documentaries,Synthetic sample record for learning data visualization.
+s188,Movie,Sample Film 0188,Director 25,Actor 7,Germany,"December 12, 2020",1991,TV-G,156 min,Dramas,Synthetic sample record for learning data visualization.
+s189,TV Show,Sample Series 0189,Director 71,Actor 95,United Kingdom,"January 22, 2021",1994,PG,5 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s190,Movie,Sample Film 0190,Director 25,Actor 38,Japan,"March 28, 2020",1998,TV-14,179 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s191,TV Show,Sample Series 0191,Director 39,Actor 89,Japan,"January 10, 2017",2014,TV-Y7,5 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s192,Movie,Sample Film 0192,Director 8,Actor 129,Japan,"January 5, 2017",2006,TV-MA,125 min,Dramas,Synthetic sample record for learning data visualization.
+s193,Movie,Sample Film 0193,Director 55,Actor 47,Australia,"June 5, 2020",1957,TV-14,128 min,Dramas,Synthetic sample record for learning data visualization.
+s194,Movie,Sample Film 0194,Director 73,Actor 130,"Canada, Japan","January 21, 2018",1992,TV-Y7,183 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s195,Movie,Sample Film 0195,Director 54,Actor 1,Germany,"June 19, 2021",2014,PG,181 min,Dramas,Synthetic sample record for learning data visualization.
+s196,Movie,Sample Film 0196,Director 33,Actor 21,United Kingdom,"January 3, 2018",2018,TV-PG,107 min,International Movies,Synthetic sample record for learning data visualization.
+s197,TV Show,Sample Series 0197,Director 54,Actor 98,France,"December 23, 2017",1998,TV-Y7,1 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s198,TV Show,Sample Series 0198,Director 61,Actor 113,India,"December 17, 2016",1993,TV-14,7 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s199,TV Show,Sample Series 0199,Director 74,Actor 143,Germany,"January 23, 2016",1983,TV-MA,1 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s200,Movie,Sample Film 0200,Director 5,Actor 11,Canada,"January 24, 2019",1985,TV-G,125 min,Dramas,Synthetic sample record for learning data visualization.
+s201,Movie,Sample Film 0201,Director 29,Actor 61,Germany,"March 3, 2015",1990,PG,85 min,International Movies,Synthetic sample record for learning data visualization.
+s202,Movie,Sample Film 0202,Director 3,Actor 81,Germany,"December 1, 2017",2004,TV-Y7,138 min,International Movies,Synthetic sample record for learning data visualization.
+s203,TV Show,Sample Series 0203,Director 59,Actor 56,Australia,"June 26, 2016",1995,PG,8 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s204,Movie,Sample Film 0204,Director 53,Actor 56,Japan,"December 15, 2020",1986,TV-MA,75 min,International Movies,Synthetic sample record for learning data visualization.
+s205,Movie,Sample Film 0205,Director 77,Actor 70,"Japan, Australia","September 3, 2018",1986,TV-14,74 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s206,TV Show,Sample Series 0206,Director 53,Actor 122,Germany,"September 13, 2016",2009,TV-G,3 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s207,Movie,Sample Film 0207,Director 35,Actor 117,"South Korea, Canada","June 2, 2020",2015,TV-MA,132 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s208,Movie,Sample Film 0208,Director 38,Actor 121,Australia,"June 7, 2015",1986,R,166 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s209,Movie,Sample Film 0209,Director 56,Actor 145,United States,"January 8, 2018",1993,R,150 min,Comedies,Synthetic sample record for learning data visualization.
+s210,TV Show,Sample Series 0210,Director 52,Actor 45,India,"January 10, 2021",1990,PG,4 Season,Documentaries,Synthetic sample record for learning data visualization.
+s211,Movie,Sample Film 0211,Director 64,Actor 82,"India, United States","March 4, 2020",2020,TV-G,125 min,Comedies,Synthetic sample record for learning data visualization.
+s212,Movie,Sample Film 0212,Director 59,Actor 139,India,"December 8, 2016",1990,TV-Y7,100 min,International Movies,Synthetic sample record for learning data visualization.
+s213,TV Show,Sample Series 0213,Director 41,Actor 127,Japan,"June 11, 2017",2006,TV-MA,2 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s214,Movie,Sample Film 0214,Director 21,Actor 114,Canada,"December 22, 2020",1965,TV-Y7,111 min,Comedies,Synthetic sample record for learning data visualization.
+s215,TV Show,Sample Series 0215,Director 51,Actor 29,Australia,"December 19, 2017",2010,TV-G,4 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s216,Movie,Sample Film 0216,Director 49,Actor 92,France,"June 25, 2019",2005,TV-14,70 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s217,Movie,Sample Film 0217,Director 66,Actor 88,"India, Canada","June 17, 2021",1998,PG,126 min,Comedies,Synthetic sample record for learning data visualization.
+s218,Movie,Sample Film 0218,Director 51,Actor 71,India,"September 11, 2015",2000,TV-PG,139 min,Documentaries,Synthetic sample record for learning data visualization.
+s219,Movie,Sample Film 0219,Director 21,Actor 120,"Germany, Spain","June 15, 2020",1988,R,171 min,International Movies,Synthetic sample record for learning data visualization.
+s220,Movie,Sample Film 0220,Director 62,Actor 49,"Japan, South Korea","June 1, 2016",1953,TV-G,154 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s221,Movie,Sample Film 0221,Director 2,Actor 11,United States,"December 24, 2020",2017,TV-Y7,178 min,Documentaries,Synthetic sample record for learning data visualization.
+s222,Movie,Sample Film 0222,Director 46,Actor 102,United Kingdom,"December 14, 2018",1995,TV-Y7,107 min,International Movies,Synthetic sample record for learning data visualization.
+s223,Movie,Sample Film 0223,Director 75,Actor 76,Spain,"March 11, 2015",1999,TV-MA,66 min,Documentaries,Synthetic sample record for learning data visualization.
+s224,Movie,Sample Film 0224,Director 53,Actor 71,Japan,"March 18, 2020",2016,TV-G,174 min,Documentaries,Synthetic sample record for learning data visualization.
+s225,Movie,Sample Film 0225,Director 60,Actor 26,Australia,"September 25, 2020",1989,PG-13,184 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s226,TV Show,Sample Series 0226,Director 52,Actor 110,Australia,"March 1, 2015",2019,TV-14,4 Season,International Movies,Synthetic sample record for learning data visualization.
+s227,Movie,Sample Film 0227,Director 12,Actor 47,United Kingdom,"March 1, 2020",2009,PG,144 min,Dramas,Synthetic sample record for learning data visualization.
+s228,Movie,Sample Film 0228,Director 54,Actor 75,United States,"December 23, 2015",1993,TV-G,106 min,Comedies,Synthetic sample record for learning data visualization.
+s229,Movie,Sample Film 0229,Director 35,Actor 60,France,"December 28, 2020",1996,TV-Y7,68 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s230,Movie,Sample Film 0230,Director 16,Actor 125,United Kingdom,"March 14, 2017",1978,R,90 min,Comedies,Synthetic sample record for learning data visualization.
+s231,Movie,Sample Film 0231,Director 78,Actor 59,Australia,"January 19, 2018",2007,TV-Y7,122 min,Comedies,Synthetic sample record for learning data visualization.
+s232,Movie,Sample Film 0232,Director 21,Actor 118,"United States, United Kingdom","June 25, 2015",1998,TV-Y7,68 min,Comedies,Synthetic sample record for learning data visualization.
+s233,Movie,Sample Film 0233,Director 2,Actor 69,India,"March 16, 2018",2010,PG,114 min,International Movies,Synthetic sample record for learning data visualization.
+s234,Movie,Sample Film 0234,Director 61,Actor 23,"United States, France","January 23, 2020",1986,TV-MA,136 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s235,Movie,Sample Film 0235,Director 17,Actor 14,"France, India","September 21, 2020",1993,TV-MA,163 min,Comedies,Synthetic sample record for learning data visualization.
+s236,Movie,Sample Film 0236,Director 28,Actor 131,South Korea,"June 11, 2019",2018,TV-PG,73 min,Comedies,Synthetic sample record for learning data visualization.
+s237,Movie,Sample Film 0237,Director 2,Actor 30,United Kingdom,"June 10, 2017",1987,R,98 min,Documentaries,Synthetic sample record for learning data visualization.
+s238,Movie,Sample Film 0238,Director 43,Actor 97,United States,"December 16, 2021",1988,PG,143 min,International Movies,Synthetic sample record for learning data visualization.
+s239,Movie,Sample Film 0239,Director 57,Actor 128,Germany,"March 1, 2016",1994,TV-G,149 min,Comedies,Synthetic sample record for learning data visualization.
+s240,Movie,Sample Film 0240,Director 18,Actor 57,India,"September 2, 2016",1979,TV-Y7,159 min,Documentaries,Synthetic sample record for learning data visualization.
+s241,TV Show,Sample Series 0241,Director 56,Actor 98,Canada,"December 18, 2016",2008,TV-G,2 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s242,TV Show,Sample Series 0242,Director 56,Actor 13,United States,"June 17, 2019",1985,PG-13,5 Season,International Movies,Synthetic sample record for learning data visualization.
+s243,TV Show,Sample Series 0243,Director 14,Actor 94,Spain,"March 7, 2017",2001,TV-PG,2 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s244,Movie,Sample Film 0244,Director 55,Actor 45,Australia,"September 21, 2016",2021,TV-PG,147 min,Comedies,Synthetic sample record for learning data visualization.
+s245,Movie,Sample Film 0245,Director 52,Actor 99,United States,"January 20, 2021",2011,PG-13,91 min,International Movies,Synthetic sample record for learning data visualization.
+s246,Movie,Sample Film 0246,Director 12,Actor 120,Japan,"March 9, 2019",1994,PG-13,166 min,Dramas,Synthetic sample record for learning data visualization.
+s247,TV Show,Sample Series 0247,Director 27,Actor 26,"Germany, Spain","June 25, 2021",1997,TV-MA,4 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s248,Movie,Sample Film 0248,Director 62,Actor 46,Australia,"December 21, 2021",1988,TV-14,73 min,Dramas,Synthetic sample record for learning data visualization.
+s249,TV Show,Sample Series 0249,Director 17,Actor 76,France,"March 28, 2020",2008,PG-13,1 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s250,Movie,Sample Film 0250,Director 42,Actor 86,Germany,"June 2, 2018",1993,TV-PG,112 min,Dramas,Synthetic sample record for learning data visualization.
+s251,TV Show,Sample Series 0251,Director 52,Actor 100,Germany,"June 17, 2020",1955,PG-13,8 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s252,Movie,Sample Film 0252,Director 32,Actor 144,France,"September 9, 2020",1987,TV-G,183 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s253,Movie,Sample Film 0253,Director 65,Actor 88,"Spain, Japan","January 23, 2018",2002,TV-MA,135 min,International Movies,Synthetic sample record for learning data visualization.
+s254,TV Show,Sample Series 0254,Director 44,Actor 23,"United Kingdom, South Korea","March 21, 2020",2021,PG-13,2 Season,Documentaries,Synthetic sample record for learning data visualization.
+s255,Movie,Sample Film 0255,Director 9,Actor 32,Germany,"December 10, 2016",1986,TV-Y7,135 min,Comedies,Synthetic sample record for learning data visualization.
+s256,TV Show,Sample Series 0256,Director 47,Actor 133,Germany,"December 11, 2016",2000,TV-14,2 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s257,Movie,Sample Film 0257,Director 64,Actor 68,"United States, Japan","December 13, 2019",2013,PG-13,108 min,International Movies,Synthetic sample record for learning data visualization.
+s258,TV Show,Sample Series 0258,Director 71,Actor 106,Canada,"March 18, 2017",2000,TV-MA,5 Season,Documentaries,Synthetic sample record for learning data visualization.
+s259,Movie,Sample Film 0259,Director 77,Actor 86,"Australia, Canada","June 7, 2019",2012,R,146 min,Comedies,Synthetic sample record for learning data visualization.
+s260,Movie,Sample Film 0260,Director 68,Actor 90,Spain,"January 1, 2018",2008,TV-PG,174 min,Dramas,Synthetic sample record for learning data visualization.
+s261,Movie,Sample Film 0261,Director 70,Actor 91,United States,"December 16, 2020",1986,TV-G,165 min,Dramas,Synthetic sample record for learning data visualization.
+s262,Movie,Sample Film 0262,Director 4,Actor 39,South Korea,"December 25, 2015",2019,TV-MA,176 min,Dramas,Synthetic sample record for learning data visualization.
+s263,Movie,Sample Film 0263,Director 58,Actor 56,Canada,"March 1, 2021",2019,TV-PG,161 min,Dramas,Synthetic sample record for learning data visualization.
+s264,TV Show,Sample Series 0264,Director 38,Actor 30,Spain,"December 9, 2015",1973,TV-MA,1 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s265,Movie,Sample Film 0265,Director 53,Actor 139,"Australia, Canada","March 18, 2018",2008,TV-14,168 min,Comedies,Synthetic sample record for learning data visualization.
+s266,Movie,Sample Film 0266,Director 46,Actor 108,Japan,"December 20, 2020",2016,R,139 min,Dramas,Synthetic sample record for learning data visualization.
+s267,TV Show,Sample Series 0267,Director 12,Actor 13,Germany,"June 10, 2016",1955,TV-PG,3 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s268,TV Show,Sample Series 0268,Director 3,Actor 21,United States,"January 4, 2019",2003,TV-MA,6 Season,Comedies,Synthetic sample record for learning data visualization.
+s269,Movie,Sample Film 0269,Director 29,Actor 61,Spain,"January 6, 2020",2003,PG,91 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s270,Movie,Sample Film 0270,Director 12,Actor 81,Japan,"December 9, 2021",2020,TV-G,118 min,Documentaries,Synthetic sample record for learning data visualization.
+s271,Movie,Sample Film 0271,Director 76,Actor 83,South Korea,"June 17, 2020",2013,PG,174 min,Documentaries,Synthetic sample record for learning data visualization.
+s272,TV Show,Sample Series 0272,Director 77,Actor 68,India,"March 14, 2017",2020,PG,2 Season,International Movies,Synthetic sample record for learning data visualization.
+s273,TV Show,Sample Series 0273,Director 32,Actor 109,France,"June 1, 2019",1988,PG,6 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s274,Movie,Sample Film 0274,Director 18,Actor 45,"Spain, South Korea","March 10, 2016",2008,TV-G,82 min,Dramas,Synthetic sample record for learning data visualization.
+s275,Movie,Sample Film 0275,Director 73,Actor 23,South Korea,"January 15, 2016",1991,TV-Y7,166 min,Dramas,Synthetic sample record for learning data visualization.
+s276,Movie,Sample Film 0276,Director 66,Actor 51,United Kingdom,"December 16, 2020",2012,TV-MA,98 min,Comedies,Synthetic sample record for learning data visualization.
+s277,Movie,Sample Film 0277,Director 8,Actor 24,Spain,"June 16, 2017",2006,PG-13,96 min,International Movies,Synthetic sample record for learning data visualization.
+s278,TV Show,Sample Series 0278,Director 73,Actor 73,Canada,"March 6, 2017",1972,R,4 Season,International Movies,Synthetic sample record for learning data visualization.
+s279,TV Show,Sample Series 0279,Director 59,Actor 99,France,"January 10, 2018",1980,TV-PG,5 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s280,Movie,Sample Film 0280,Director 78,Actor 39,France,"March 27, 2016",1986,TV-G,146 min,Comedies,Synthetic sample record for learning data visualization.
+s281,Movie,Sample Film 0281,Director 17,Actor 15,France,"June 20, 2020",2013,TV-14,158 min,Documentaries,Synthetic sample record for learning data visualization.
+s282,Movie,Sample Film 0282,Director 67,Actor 18,Australia,"January 11, 2018",1999,TV-MA,138 min,Dramas,Synthetic sample record for learning data visualization.
+s283,Movie,Sample Film 0283,Director 2,Actor 13,Japan,"June 1, 2017",1990,R,167 min,Dramas,Synthetic sample record for learning data visualization.
+s284,TV Show,Sample Series 0284,Director 76,Actor 139,"France, Germany","March 20, 2015",2016,TV-Y7,3 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s285,TV Show,Sample Series 0285,Director 54,Actor 84,Canada,"March 11, 2017",1994,PG-13,3 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s286,Movie,Sample Film 0286,Director 54,Actor 129,Japan,"March 1, 2015",1984,TV-G,119 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s287,Movie,Sample Film 0287,Director 63,Actor 123,Canada,"December 24, 2019",2016,TV-PG,123 min,Comedies,Synthetic sample record for learning data visualization.
+s288,TV Show,Sample Series 0288,Director 12,Actor 6,Japan,"September 24, 2015",2002,TV-G,7 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s289,Movie,Sample Film 0289,Director 14,Actor 133,Spain,"December 17, 2021",2003,TV-Y7,119 min,International Movies,Synthetic sample record for learning data visualization.
+s290,Movie,Sample Film 0290,Director 79,Actor 138,Canada,"June 5, 2021",2011,PG,133 min,Documentaries,Synthetic sample record for learning data visualization.
+s291,Movie,Sample Film 0291,Director 57,Actor 78,United States,"June 10, 2019",2013,TV-MA,89 min,Comedies,Synthetic sample record for learning data visualization.
+s292,TV Show,Sample Series 0292,Director 30,Actor 62,Spain,"June 22, 2015",2020,TV-MA,1 Season,Documentaries,Synthetic sample record for learning data visualization.
+s293,Movie,Sample Film 0293,Director 14,Actor 12,United Kingdom,"September 22, 2019",2019,TV-G,129 min,International Movies,Synthetic sample record for learning data visualization.
+s294,Movie,Sample Film 0294,Director 38,Actor 132,India,"September 16, 2016",2020,PG,185 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s295,TV Show,Sample Series 0295,Director 7,Actor 51,South Korea,"September 5, 2015",2000,R,1 Season,Dramas,Synthetic sample record for learning data visualization.
+s296,TV Show,Sample Series 0296,Director 16,Actor 92,Japan,"December 2, 2018",1997,TV-PG,8 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s297,TV Show,Sample Series 0297,Director 32,Actor 55,Spain,"June 20, 2020",1985,TV-Y7,8 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s298,Movie,Sample Film 0298,Director 6,Actor 138,France,"June 5, 2017",1984,PG-13,72 min,Dramas,Synthetic sample record for learning data visualization.
+s299,TV Show,Sample Series 0299,Director 61,Actor 47,India,"December 24, 2019",1989,TV-G,7 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s300,Movie,Sample Film 0300,Director 66,Actor 113,Japan,"January 4, 2017",2001,PG-13,100 min,International Movies,Synthetic sample record for learning data visualization.
+s301,TV Show,Sample Series 0301,Director 37,Actor 136,India,"December 9, 2017",1966,TV-Y7,7 Season,International Movies,Synthetic sample record for learning data visualization.
+s302,TV Show,Sample Series 0302,Director 1,Actor 29,"France, South Korea","June 9, 2015",1995,PG-13,1 Season,International Movies,Synthetic sample record for learning data visualization.
+s303,Movie,Sample Film 0303,Director 65,Actor 50,United Kingdom,"December 6, 2017",1980,TV-Y7,130 min,Documentaries,Synthetic sample record for learning data visualization.
+s304,Movie,Sample Film 0304,Director 18,Actor 103,South Korea,"September 22, 2017",1958,R,117 min,Dramas,Synthetic sample record for learning data visualization.
+s305,Movie,Sample Film 0305,Director 31,Actor 46,South Korea,"January 9, 2021",1967,TV-14,95 min,Dramas,Synthetic sample record for learning data visualization.
+s306,Movie,Sample Film 0306,Director 3,Actor 130,"Spain, Japan","March 12, 2016",2014,PG,159 min,Dramas,Synthetic sample record for learning data visualization.
+s307,Movie,Sample Film 0307,Director 76,Actor 66,South Korea,"June 8, 2018",1986,PG-13,89 min,Documentaries,Synthetic sample record for learning data visualization.
+s308,Movie,Sample Film 0308,Director 73,Actor 31,"United Kingdom, South Korea","March 23, 2018",1993,PG-13,128 min,Dramas,Synthetic sample record for learning data visualization.
+s309,Movie,Sample Film 0309,Director 53,Actor 92,Japan,"March 24, 2020",1996,TV-MA,69 min,Dramas,Synthetic sample record for learning data visualization.
+s310,TV Show,Sample Series 0310,Director 39,Actor 7,"Japan, Spain","September 9, 2017",1996,R,8 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s311,Movie,Sample Film 0311,Director 37,Actor 51,"South Korea, France","September 3, 2020",2010,TV-14,144 min,International Movies,Synthetic sample record for learning data visualization.
+s312,Movie,Sample Film 0312,Director 15,Actor 148,"Spain, United Kingdom","January 19, 2020",2010,TV-MA,182 min,International Movies,Synthetic sample record for learning data visualization.
+s313,Movie,Sample Film 0313,Director 72,Actor 105,United States,"December 1, 2020",2012,TV-Y7,131 min,Documentaries,Synthetic sample record for learning data visualization.
+s314,Movie,Sample Film 0314,Director 55,Actor 20,South Korea,"December 13, 2018",2009,TV-Y7,139 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s315,Movie,Sample Film 0315,Director 5,Actor 86,France,"September 27, 2020",2019,R,169 min,Comedies,Synthetic sample record for learning data visualization.
+s316,Movie,Sample Film 0316,Director 76,Actor 85,Spain,"January 7, 2021",1951,TV-PG,179 min,Dramas,Synthetic sample record for learning data visualization.
+s317,TV Show,Sample Series 0317,Director 60,Actor 22,Germany,"December 26, 2017",2019,TV-14,5 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s318,Movie,Sample Film 0318,Director 60,Actor 85,"South Korea, Australia","January 17, 2021",2006,TV-G,141 min,International Movies,Synthetic sample record for learning data visualization.
+s319,TV Show,Sample Series 0319,Director 10,Actor 68,"Spain, Germany","September 16, 2018",2005,TV-Y7,3 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s320,TV Show,Sample Series 0320,Director 51,Actor 62,Spain,"March 23, 2021",2003,PG,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s321,Movie,Sample Film 0321,Director 35,Actor 93,Japan,"March 8, 2016",1967,TV-MA,162 min,Comedies,Synthetic sample record for learning data visualization.
+s322,Movie,Sample Film 0322,Director 44,Actor 2,France,"September 6, 2017",2021,R,159 min,Comedies,Synthetic sample record for learning data visualization.
+s323,Movie,Sample Film 0323,Director 33,Actor 24,"United Kingdom, India","June 28, 2017",1956,TV-G,105 min,Dramas,Synthetic sample record for learning data visualization.
+s324,Movie,Sample Film 0324,Director 45,Actor 21,India,"December 11, 2021",2009,PG-13,175 min,International Movies,Synthetic sample record for learning data visualization.
+s325,Movie,Sample Film 0325,Director 40,Actor 39,Australia,"December 22, 2017",2007,PG,67 min,International Movies,Synthetic sample record for learning data visualization.
+s326,Movie,Sample Film 0326,Director 22,Actor 101,India,"June 20, 2018",2007,TV-MA,95 min,Dramas,Synthetic sample record for learning data visualization.
+s327,Movie,Sample Film 0327,Director 14,Actor 35,Canada,"September 17, 2017",2002,TV-Y7,139 min,International Movies,Synthetic sample record for learning data visualization.
+s328,TV Show,Sample Series 0328,Director 11,Actor 5,India,"March 13, 2021",1987,TV-14,6 Season,International Movies,Synthetic sample record for learning data visualization.
+s329,Movie,Sample Film 0329,Director 74,Actor 84,United States,"September 5, 2018",1978,TV-MA,96 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s330,TV Show,Sample Series 0330,Director 9,Actor 32,South Korea,"December 6, 2016",1988,TV-Y7,4 Season,Dramas,Synthetic sample record for learning data visualization.
+s331,TV Show,Sample Series 0331,Director 33,Actor 126,"Canada, Australia","January 7, 2020",2000,PG-13,2 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s332,Movie,Sample Film 0332,Director 59,Actor 16,Canada,"September 18, 2021",1962,R,77 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s333,Movie,Sample Film 0333,Director 36,Actor 40,Canada,"September 2, 2015",1990,TV-PG,176 min,Dramas,Synthetic sample record for learning data visualization.
+s334,Movie,Sample Film 0334,Director 63,Actor 25,"Germany, United Kingdom","June 6, 2018",2011,TV-G,127 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s335,Movie,Sample Film 0335,Director 48,Actor 104,United Kingdom,"December 7, 2017",1958,TV-14,86 min,Dramas,Synthetic sample record for learning data visualization.
+s336,Movie,Sample Film 0336,Director 18,Actor 26,France,"December 3, 2021",2010,TV-G,106 min,Comedies,Synthetic sample record for learning data visualization.
+s337,Movie,Sample Film 0337,Director 18,Actor 53,"Canada, Japan","December 19, 2020",1987,PG-13,111 min,Comedies,Synthetic sample record for learning data visualization.
+s338,Movie,Sample Film 0338,Director 24,Actor 149,South Korea,"December 9, 2020",2008,TV-MA,99 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s339,Movie,Sample Film 0339,Director 76,Actor 21,United Kingdom,"September 28, 2021",2005,TV-14,127 min,Documentaries,Synthetic sample record for learning data visualization.
+s340,Movie,Sample Film 0340,Director 46,Actor 95,India,"June 10, 2015",2004,TV-G,165 min,Comedies,Synthetic sample record for learning data visualization.
+s341,Movie,Sample Film 0341,Director 31,Actor 106,France,"June 1, 2021",2016,TV-MA,173 min,Dramas,Synthetic sample record for learning data visualization.
+s342,TV Show,Sample Series 0342,Director 35,Actor 4,Japan,"December 16, 2018",1986,TV-MA,2 Season,Dramas,Synthetic sample record for learning data visualization.
+s343,Movie,Sample Film 0343,Director 55,Actor 103,Germany,"June 20, 2020",2013,TV-14,120 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s344,Movie,Sample Film 0344,Director 41,Actor 85,"France, Australia","March 12, 2019",2013,TV-G,107 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s345,Movie,Sample Film 0345,Director 36,Actor 57,Japan,"March 14, 2020",2010,PG,182 min,Documentaries,Synthetic sample record for learning data visualization.
+s346,TV Show,Sample Series 0346,Director 78,Actor 137,Germany,"March 2, 2020",1992,TV-MA,1 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s347,Movie,Sample Film 0347,Director 5,Actor 1,India,"March 24, 2017",2011,TV-14,102 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s348,Movie,Sample Film 0348,Director 40,Actor 141,Germany,"March 13, 2017",1953,PG,127 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s349,Movie,Sample Film 0349,Director 72,Actor 3,United States,"September 4, 2015",1996,TV-PG,88 min,Comedies,Synthetic sample record for learning data visualization.
+s350,Movie,Sample Film 0350,Director 61,Actor 91,France,"January 2, 2020",2001,TV-G,131 min,Dramas,Synthetic sample record for learning data visualization.
+s351,TV Show,Sample Series 0351,Director 38,Actor 39,India,"January 8, 2016",2007,TV-G,4 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s352,TV Show,Sample Series 0352,Director 53,Actor 98,"India, Canada","December 11, 2015",1996,TV-14,8 Season,Documentaries,Synthetic sample record for learning data visualization.
+s353,Movie,Sample Film 0353,Director 66,Actor 97,Japan,"June 22, 2020",1998,TV-MA,164 min,Dramas,Synthetic sample record for learning data visualization.
+s354,TV Show,Sample Series 0354,Director 60,Actor 30,France,"June 1, 2021",1994,PG,2 Season,Dramas,Synthetic sample record for learning data visualization.
+s355,TV Show,Sample Series 0355,Director 9,Actor 149,Japan,"June 22, 2018",1987,TV-Y7,2 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s356,TV Show,Sample Series 0356,Director 42,Actor 72,"Germany, Canada","January 22, 2018",1977,TV-Y7,8 Season,Dramas,Synthetic sample record for learning data visualization.
+s357,Movie,Sample Film 0357,Director 40,Actor 76,United Kingdom,"December 16, 2021",1986,R,80 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s358,Movie,Sample Film 0358,Director 80,Actor 27,Canada,"March 19, 2015",1998,TV-G,183 min,Comedies,Synthetic sample record for learning data visualization.
+s359,TV Show,Sample Series 0359,Director 58,Actor 95,United States,"March 4, 2017",1990,PG-13,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s360,Movie,Sample Film 0360,Director 9,Actor 146,Spain,"January 19, 2015",2004,TV-Y7,101 min,Dramas,Synthetic sample record for learning data visualization.
+s361,Movie,Sample Film 0361,Director 56,Actor 129,United States,"March 14, 2017",2014,TV-14,103 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s362,Movie,Sample Film 0362,Director 71,Actor 85,Germany,"March 28, 2016",1995,PG-13,68 min,Comedies,Synthetic sample record for learning data visualization.
+s363,Movie,Sample Film 0363,Director 11,Actor 71,United States,"March 25, 2018",2002,R,153 min,Documentaries,Synthetic sample record for learning data visualization.
+s364,TV Show,Sample Series 0364,Director 29,Actor 126,Canada,"December 13, 2020",2005,TV-MA,2 Season,Documentaries,Synthetic sample record for learning data visualization.
+s365,TV Show,Sample Series 0365,Director 2,Actor 62,Spain,"March 24, 2015",2015,TV-Y7,3 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s366,Movie,Sample Film 0366,Director 47,Actor 95,Germany,"March 15, 2018",1973,TV-Y7,170 min,Documentaries,Synthetic sample record for learning data visualization.
+s367,TV Show,Sample Series 0367,Director 80,Actor 13,Japan,"December 20, 2021",2020,TV-14,4 Season,Dramas,Synthetic sample record for learning data visualization.
+s368,Movie,Sample Film 0368,Director 57,Actor 49,Australia,"January 28, 2019",2005,TV-Y7,82 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s369,Movie,Sample Film 0369,Director 63,Actor 88,United Kingdom,"December 28, 2020",1993,TV-MA,102 min,Comedies,Synthetic sample record for learning data visualization.
+s370,Movie,Sample Film 0370,Director 66,Actor 5,United States,"December 23, 2015",1992,TV-Y7,81 min,International Movies,Synthetic sample record for learning data visualization.
+s371,Movie,Sample Film 0371,Director 66,Actor 99,Spain,"January 20, 2018",2014,TV-MA,88 min,Comedies,Synthetic sample record for learning data visualization.
+s372,TV Show,Sample Series 0372,Director 16,Actor 83,Spain,"January 7, 2018",1991,PG-13,5 Season,International Movies,Synthetic sample record for learning data visualization.
+s373,TV Show,Sample Series 0373,Director 1,Actor 82,South Korea,"December 6, 2020",2011,PG,4 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s374,Movie,Sample Film 0374,Director 43,Actor 8,Australia,"June 20, 2021",2019,TV-MA,160 min,Dramas,Synthetic sample record for learning data visualization.
+s375,TV Show,Sample Series 0375,Director 43,Actor 12,United States,"January 28, 2019",1992,TV-MA,7 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s376,Movie,Sample Film 0376,Director 36,Actor 72,India,"January 6, 2019",1969,TV-MA,73 min,Documentaries,Synthetic sample record for learning data visualization.
+s377,Movie,Sample Film 0377,Director 79,Actor 66,France,"December 3, 2020",1997,TV-14,100 min,International Movies,Synthetic sample record for learning data visualization.
+s378,TV Show,Sample Series 0378,Director 38,Actor 11,Australia,"June 16, 2015",1985,R,7 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s379,TV Show,Sample Series 0379,Director 80,Actor 109,Australia,"September 6, 2018",2007,PG-13,8 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s380,Movie,Sample Film 0380,Director 10,Actor 132,United States,"June 9, 2018",2006,TV-G,108 min,Dramas,Synthetic sample record for learning data visualization.
+s381,Movie,Sample Film 0381,Director 15,Actor 115,Japan,"January 12, 2017",1990,TV-14,162 min,International Movies,Synthetic sample record for learning data visualization.
+s382,TV Show,Sample Series 0382,Director 42,Actor 139,Spain,"March 23, 2017",1987,TV-MA,1 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s383,TV Show,Sample Series 0383,Director 44,Actor 103,"Spain, India","June 21, 2018",2001,TV-14,7 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s384,Movie,Sample Film 0384,Director 5,Actor 149,Germany,"January 10, 2017",1986,TV-MA,66 min,Dramas,Synthetic sample record for learning data visualization.
+s385,Movie,Sample Film 0385,Director 77,Actor 37,South Korea,"June 27, 2015",2002,R,167 min,International Movies,Synthetic sample record for learning data visualization.
+s386,Movie,Sample Film 0386,Director 20,Actor 12,United Kingdom,"March 22, 2020",1991,R,164 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s387,TV Show,Sample Series 0387,Director 80,Actor 93,South Korea,"September 4, 2020",2001,TV-PG,4 Season,Comedies,Synthetic sample record for learning data visualization.
+s388,Movie,Sample Film 0388,Director 55,Actor 130,"Germany, Spain","September 7, 2018",1998,R,101 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s389,Movie,Sample Film 0389,Director 9,Actor 65,United States,"September 7, 2020",1990,TV-G,92 min,Documentaries,Synthetic sample record for learning data visualization.
+s390,Movie,Sample Film 0390,Director 16,Actor 142,India,"June 5, 2018",2014,TV-G,100 min,International Movies,Synthetic sample record for learning data visualization.
+s391,Movie,Sample Film 0391,Director 49,Actor 13,United States,"December 10, 2019",1999,TV-MA,175 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s392,Movie,Sample Film 0392,Director 56,Actor 91,United Kingdom,"December 12, 2019",1986,TV-Y7,77 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s393,Movie,Sample Film 0393,Director 18,Actor 146,Canada,"January 27, 2016",1968,PG,90 min,Documentaries,Synthetic sample record for learning data visualization.
+s394,Movie,Sample Film 0394,Director 21,Actor 109,India,"September 2, 2018",2010,TV-G,113 min,International Movies,Synthetic sample record for learning data visualization.
+s395,Movie,Sample Film 0395,Director 57,Actor 39,Spain,"January 18, 2018",2009,PG,85 min,Comedies,Synthetic sample record for learning data visualization.
+s396,Movie,Sample Film 0396,Director 69,Actor 19,"Canada, Japan","March 5, 2015",2006,R,91 min,Comedies,Synthetic sample record for learning data visualization.
+s397,TV Show,Sample Series 0397,Director 29,Actor 143,Spain,"September 1, 2018",2005,TV-G,6 Season,Documentaries,Synthetic sample record for learning data visualization.
+s398,Movie,Sample Film 0398,Director 9,Actor 77,"Germany, United States","January 16, 2018",1999,PG-13,107 min,Documentaries,Synthetic sample record for learning data visualization.
+s399,Movie,Sample Film 0399,Director 52,Actor 40,France,"September 7, 2021",1982,R,110 min,International Movies,Synthetic sample record for learning data visualization.
+s400,Movie,Sample Film 0400,Director 47,Actor 79,Spain,"June 2, 2020",1974,TV-PG,72 min,International Movies,Synthetic sample record for learning data visualization.
+s401,Movie,Sample Film 0401,Director 21,Actor 100,Japan,"March 28, 2020",2004,R,172 min,Documentaries,Synthetic sample record for learning data visualization.
+s402,Movie,Sample Film 0402,Director 3,Actor 29,France,"June 11, 2016",1989,TV-Y7,93 min,Comedies,Synthetic sample record for learning data visualization.
+s403,Movie,Sample Film 0403,Director 19,Actor 28,Spain,"March 25, 2018",1996,TV-MA,144 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s404,Movie,Sample Film 0404,Director 3,Actor 106,Australia,"January 4, 2020",2015,PG-13,76 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s405,Movie,Sample Film 0405,Director 56,Actor 130,Canada,"March 17, 2019",2019,TV-14,112 min,Documentaries,Synthetic sample record for learning data visualization.
+s406,Movie,Sample Film 0406,Director 35,Actor 89,Germany,"September 1, 2015",2014,TV-Y7,152 min,Documentaries,Synthetic sample record for learning data visualization.
+s407,TV Show,Sample Series 0407,Director 19,Actor 120,United States,"January 17, 2018",2005,TV-14,6 Season,Documentaries,Synthetic sample record for learning data visualization.
+s408,TV Show,Sample Series 0408,Director 63,Actor 41,United Kingdom,"September 4, 2019",1993,TV-MA,4 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s409,TV Show,Sample Series 0409,Director 4,Actor 10,"Spain, India","March 12, 2016",2003,TV-Y7,6 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s410,Movie,Sample Film 0410,Director 75,Actor 137,Canada,"March 7, 2020",1995,PG,106 min,International Movies,Synthetic sample record for learning data visualization.
+s411,TV Show,Sample Series 0411,Director 53,Actor 85,Australia,"March 15, 2018",1992,R,7 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s412,Movie,Sample Film 0412,Director 64,Actor 51,"Australia, India","September 26, 2019",2018,R,161 min,International Movies,Synthetic sample record for learning data visualization.
+s413,TV Show,Sample Series 0413,Director 72,Actor 15,Japan,"March 3, 2018",1992,TV-MA,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s414,Movie,Sample Film 0414,Director 31,Actor 129,India,"January 8, 2019",1951,TV-G,83 min,Documentaries,Synthetic sample record for learning data visualization.
+s415,Movie,Sample Film 0415,Director 5,Actor 98,"Japan, Germany","June 21, 2018",2012,TV-14,180 min,Documentaries,Synthetic sample record for learning data visualization.
+s416,Movie,Sample Film 0416,Director 78,Actor 97,"South Korea, Japan","June 27, 2019",2018,TV-MA,125 min,Documentaries,Synthetic sample record for learning data visualization.
+s417,Movie,Sample Film 0417,Director 31,Actor 42,"Japan, South Korea","January 16, 2019",2012,PG-13,179 min,Documentaries,Synthetic sample record for learning data visualization.
+s418,Movie,Sample Film 0418,Director 78,Actor 85,"Japan, United Kingdom","March 19, 2017",2020,TV-14,128 min,Dramas,Synthetic sample record for learning data visualization.
+s419,Movie,Sample Film 0419,Director 72,Actor 128,France,"December 18, 2019",2013,PG-13,73 min,International Movies,Synthetic sample record for learning data visualization.
+s420,Movie,Sample Film 0420,Director 44,Actor 108,"South Korea, United States","January 22, 2019",2018,TV-PG,170 min,Documentaries,Synthetic sample record for learning data visualization.
+s421,Movie,Sample Film 0421,Director 15,Actor 119,United Kingdom,"March 17, 2020",2013,TV-Y7,85 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s422,Movie,Sample Film 0422,Director 53,Actor 96,Spain,"September 25, 2019",2003,PG-13,123 min,Documentaries,Synthetic sample record for learning data visualization.
+s423,Movie,Sample Film 0423,Director 48,Actor 14,France,"December 3, 2018",1984,TV-MA,159 min,Documentaries,Synthetic sample record for learning data visualization.
+s424,Movie,Sample Film 0424,Director 77,Actor 64,United Kingdom,"March 7, 2020",1994,TV-MA,98 min,International Movies,Synthetic sample record for learning data visualization.
+s425,Movie,Sample Film 0425,Director 66,Actor 67,Canada,"June 2, 2018",1988,R,142 min,International Movies,Synthetic sample record for learning data visualization.
+s426,Movie,Sample Film 0426,Director 4,Actor 90,Spain,"December 5, 2018",1951,PG-13,178 min,Dramas,Synthetic sample record for learning data visualization.
+s427,TV Show,Sample Series 0427,Director 61,Actor 39,Germany,"December 18, 2020",1993,TV-G,6 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s428,Movie,Sample Film 0428,Director 71,Actor 50,"Australia, United States","March 18, 2016",2016,TV-14,170 min,Documentaries,Synthetic sample record for learning data visualization.
+s429,Movie,Sample Film 0429,Director 34,Actor 35,Germany,"March 27, 2016",2013,TV-PG,169 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s430,Movie,Sample Film 0430,Director 62,Actor 19,Spain,"September 25, 2019",2018,PG-13,105 min,International Movies,Synthetic sample record for learning data visualization.
+s431,Movie,Sample Film 0431,Director 19,Actor 45,Germany,"March 5, 2020",1993,R,105 min,Documentaries,Synthetic sample record for learning data visualization.
+s432,Movie,Sample Film 0432,Director 28,Actor 47,Spain,"January 6, 2016",2011,TV-MA,175 min,International Movies,Synthetic sample record for learning data visualization.
+s433,TV Show,Sample Series 0433,Director 50,Actor 42,Japan,"December 16, 2019",1993,PG-13,7 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s434,TV Show,Sample Series 0434,Director 14,Actor 135,Canada,"December 26, 2017",2015,TV-Y7,7 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s435,Movie,Sample Film 0435,Director 15,Actor 25,United Kingdom,"June 23, 2020",2007,TV-Y7,69 min,International Movies,Synthetic sample record for learning data visualization.
+s436,TV Show,Sample Series 0436,Director 80,Actor 78,India,"March 18, 2016",2010,TV-G,8 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s437,Movie,Sample Film 0437,Director 64,Actor 137,"United Kingdom, Spain","March 28, 2019",2011,PG-13,93 min,Comedies,Synthetic sample record for learning data visualization.
+s438,TV Show,Sample Series 0438,Director 34,Actor 81,Japan,"December 18, 2017",1987,TV-14,1 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s439,TV Show,Sample Series 0439,Director 29,Actor 93,Spain,"January 25, 2015",2003,PG,4 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s440,TV Show,Sample Series 0440,Director 17,Actor 73,"Germany, India","September 17, 2015",2006,TV-MA,3 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s441,Movie,Sample Film 0441,Director 32,Actor 40,United States,"June 25, 2015",2015,TV-PG,77 min,Comedies,Synthetic sample record for learning data visualization.
+s442,Movie,Sample Film 0442,Director 53,Actor 146,"India, Spain","September 6, 2018",1995,TV-PG,156 min,Comedies,Synthetic sample record for learning data visualization.
+s443,Movie,Sample Film 0443,Director 79,Actor 84,Canada,"March 12, 2021",2016,TV-G,173 min,Comedies,Synthetic sample record for learning data visualization.
+s444,Movie,Sample Film 0444,Director 40,Actor 97,India,"June 6, 2017",2011,TV-Y7,179 min,International Movies,Synthetic sample record for learning data visualization.
+s445,Movie,Sample Film 0445,Director 23,Actor 125,"Spain, India","December 3, 2021",2021,PG-13,133 min,Documentaries,Synthetic sample record for learning data visualization.
+s446,Movie,Sample Film 0446,Director 20,Actor 87,United States,"March 24, 2020",2016,PG-13,117 min,Documentaries,Synthetic sample record for learning data visualization.
+s447,Movie,Sample Film 0447,Director 48,Actor 83,Japan,"June 9, 2021",1994,TV-PG,168 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s448,TV Show,Sample Series 0448,Director 11,Actor 123,Australia,"January 24, 2016",2004,TV-G,7 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s449,Movie,Sample Film 0449,Director 30,Actor 5,Japan,"January 12, 2017",1960,TV-14,91 min,Dramas,Synthetic sample record for learning data visualization.
+s450,TV Show,Sample Series 0450,Director 73,Actor 37,South Korea,"June 16, 2015",1997,TV-G,5 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s451,Movie,Sample Film 0451,Director 27,Actor 60,India,"January 17, 2019",2002,TV-MA,79 min,Dramas,Synthetic sample record for learning data visualization.
+s452,TV Show,Sample Series 0452,Director 32,Actor 83,Canada,"December 19, 2021",2018,TV-MA,7 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s453,TV Show,Sample Series 0453,Director 48,Actor 8,United States,"June 20, 2020",1960,PG,5 Season,Comedies,Synthetic sample record for learning data visualization.
+s454,Movie,Sample Film 0454,Director 40,Actor 1,Australia,"June 2, 2021",2016,R,145 min,Dramas,Synthetic sample record for learning data visualization.
+s455,TV Show,Sample Series 0455,Director 13,Actor 3,France,"March 18, 2019",2012,TV-PG,8 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s456,Movie,Sample Film 0456,Director 36,Actor 48,South Korea,"September 10, 2018",1964,PG,180 min,Documentaries,Synthetic sample record for learning data visualization.
+s457,Movie,Sample Film 0457,Director 50,Actor 143,"United Kingdom, Spain","June 10, 2016",1988,TV-Y7,156 min,Dramas,Synthetic sample record for learning data visualization.
+s458,Movie,Sample Film 0458,Director 52,Actor 107,United States,"January 13, 2020",2018,PG,75 min,Comedies,Synthetic sample record for learning data visualization.
+s459,Movie,Sample Film 0459,Director 35,Actor 90,"France, Germany","June 12, 2015",2013,TV-14,172 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s460,TV Show,Sample Series 0460,Director 74,Actor 121,United States,"September 23, 2015",2004,PG-13,6 Season,Documentaries,Synthetic sample record for learning data visualization.
+s461,Movie,Sample Film 0461,Director 72,Actor 53,Japan,"December 24, 2021",2008,PG,75 min,Documentaries,Synthetic sample record for learning data visualization.
+s462,Movie,Sample Film 0462,Director 38,Actor 118,France,"September 18, 2016",2011,TV-14,146 min,International Movies,Synthetic sample record for learning data visualization.
+s463,TV Show,Sample Series 0463,Director 71,Actor 140,"Australia, South Korea","December 4, 2015",1996,TV-14,1 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s464,TV Show,Sample Series 0464,Director 11,Actor 58,France,"June 20, 2020",2018,PG-13,1 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s465,TV Show,Sample Series 0465,Director 18,Actor 111,Germany,"December 14, 2016",2007,TV-14,3 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s466,TV Show,Sample Series 0466,Director 28,Actor 6,United Kingdom,"January 24, 2020",2021,TV-MA,8 Season,Comedies,Synthetic sample record for learning data visualization.
+s467,Movie,Sample Film 0467,Director 73,Actor 91,India,"January 26, 2016",1988,TV-Y7,144 min,International Movies,Synthetic sample record for learning data visualization.
+s468,Movie,Sample Film 0468,Director 36,Actor 106,South Korea,"June 24, 2016",1958,R,131 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s469,TV Show,Sample Series 0469,Director 44,Actor 54,Spain,"September 26, 2021",1977,PG,3 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s470,TV Show,Sample Series 0470,Director 3,Actor 150,Japan,"September 14, 2019",1959,PG-13,7 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s471,Movie,Sample Film 0471,Director 66,Actor 11,United States,"March 9, 2019",1959,TV-PG,109 min,Comedies,Synthetic sample record for learning data visualization.
+s472,TV Show,Sample Series 0472,Director 80,Actor 132,Australia,"June 8, 2020",2020,TV-Y7,2 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s473,TV Show,Sample Series 0473,Director 54,Actor 94,"South Korea, Canada","June 1, 2015",2009,TV-14,7 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s474,Movie,Sample Film 0474,Director 38,Actor 49,United States,"December 6, 2017",1967,TV-PG,126 min,International Movies,Synthetic sample record for learning data visualization.
+s475,Movie,Sample Film 0475,Director 48,Actor 31,"France, South Korea","March 28, 2015",1975,R,119 min,Documentaries,Synthetic sample record for learning data visualization.
+s476,Movie,Sample Film 0476,Director 49,Actor 53,France,"March 27, 2017",2018,TV-PG,121 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s477,Movie,Sample Film 0477,Director 29,Actor 127,Canada,"September 4, 2018",1978,TV-G,140 min,Documentaries,Synthetic sample record for learning data visualization.
+s478,Movie,Sample Film 0478,Director 70,Actor 97,India,"September 26, 2018",2018,TV-Y7,86 min,International Movies,Synthetic sample record for learning data visualization.
+s479,Movie,Sample Film 0479,Director 72,Actor 150,Germany,"September 15, 2019",2008,TV-MA,184 min,International Movies,Synthetic sample record for learning data visualization.
+s480,Movie,Sample Film 0480,Director 20,Actor 108,Canada,"March 13, 2018",2016,TV-G,105 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s481,TV Show,Sample Series 0481,Director 46,Actor 134,Australia,"March 8, 2018",2009,TV-Y7,1 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s482,TV Show,Sample Series 0482,Director 58,Actor 29,Germany,"December 19, 2017",2021,TV-14,6 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s483,Movie,Sample Film 0483,Director 32,Actor 30,Australia,"December 5, 2015",1950,TV-MA,165 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s484,Movie,Sample Film 0484,Director 31,Actor 144,Australia,"June 2, 2019",1997,TV-G,126 min,Dramas,Synthetic sample record for learning data visualization.
+s485,Movie,Sample Film 0485,Director 11,Actor 77,"United States, India","January 16, 2016",2007,PG-13,73 min,Documentaries,Synthetic sample record for learning data visualization.
+s486,TV Show,Sample Series 0486,Director 58,Actor 70,South Korea,"September 8, 2020",1997,TV-G,8 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s487,Movie,Sample Film 0487,Director 34,Actor 71,Japan,"June 8, 2016",1996,TV-MA,78 min,Comedies,Synthetic sample record for learning data visualization.
+s488,Movie,Sample Film 0488,Director 41,Actor 83,Australia,"June 27, 2021",1986,TV-14,174 min,Comedies,Synthetic sample record for learning data visualization.
+s489,TV Show,Sample Series 0489,Director 69,Actor 12,South Korea,"January 21, 2020",2005,TV-14,3 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s490,Movie,Sample Film 0490,Director 23,Actor 54,France,"March 1, 2015",2005,TV-Y7,178 min,Dramas,Synthetic sample record for learning data visualization.
+s491,Movie,Sample Film 0491,Director 2,Actor 150,Spain,"January 15, 2018",1961,TV-PG,65 min,International Movies,Synthetic sample record for learning data visualization.
+s492,Movie,Sample Film 0492,Director 47,Actor 43,Germany,"January 27, 2019",1986,TV-MA,168 min,Dramas,Synthetic sample record for learning data visualization.
+s493,TV Show,Sample Series 0493,Director 44,Actor 72,Germany,"December 13, 2018",2005,TV-MA,1 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s494,Movie,Sample Film 0494,Director 13,Actor 86,"France, Japan","June 10, 2015",2020,R,153 min,Comedies,Synthetic sample record for learning data visualization.
+s495,Movie,Sample Film 0495,Director 3,Actor 82,South Korea,"January 2, 2017",2018,TV-MA,147 min,Comedies,Synthetic sample record for learning data visualization.
+s496,TV Show,Sample Series 0496,Director 48,Actor 117,France,"June 4, 2017",1993,PG-13,5 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s497,Movie,Sample Film 0497,Director 41,Actor 148,India,"January 27, 2016",1985,TV-14,126 min,Documentaries,Synthetic sample record for learning data visualization.
+s498,TV Show,Sample Series 0498,Director 54,Actor 82,Japan,"September 6, 2017",2015,TV-G,6 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s499,Movie,Sample Film 0499,Director 15,Actor 22,"United States, South Korea","December 12, 2021",1959,TV-PG,130 min,Comedies,Synthetic sample record for learning data visualization.
+s500,Movie,Sample Film 0500,Director 43,Actor 130,United States,"December 21, 2015",1991,TV-G,112 min,Documentaries,Synthetic sample record for learning data visualization.
+s501,Movie,Sample Film 0501,Director 45,Actor 29,Germany,"June 25, 2018",2003,TV-MA,165 min,Comedies,Synthetic sample record for learning data visualization.
+s502,Movie,Sample Film 0502,Director 25,Actor 29,Japan,"December 10, 2020",1990,TV-MA,122 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s503,TV Show,Sample Series 0503,Director 32,Actor 133,Japan,"March 26, 2019",2001,PG,2 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s504,Movie,Sample Film 0504,Director 49,Actor 77,France,"June 2, 2020",1990,PG,155 min,International Movies,Synthetic sample record for learning data visualization.
+s505,Movie,Sample Film 0505,Director 31,Actor 114,Japan,"January 14, 2021",2015,R,144 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s506,Movie,Sample Film 0506,Director 3,Actor 142,South Korea,"March 2, 2020",2020,R,107 min,Dramas,Synthetic sample record for learning data visualization.
+s507,Movie,Sample Film 0507,Director 76,Actor 77,France,"December 19, 2021",1989,TV-Y7,177 min,International Movies,Synthetic sample record for learning data visualization.
+s508,Movie,Sample Film 0508,Director 52,Actor 4,United Kingdom,"December 26, 2017",2003,TV-14,73 min,International Movies,Synthetic sample record for learning data visualization.
+s509,TV Show,Sample Series 0509,Director 12,Actor 99,Japan,"January 3, 2018",2015,PG,2 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s510,Movie,Sample Film 0510,Director 27,Actor 2,Canada,"January 21, 2017",2014,TV-G,165 min,International Movies,Synthetic sample record for learning data visualization.
+s511,Movie,Sample Film 0511,Director 35,Actor 45,Spain,"December 17, 2016",2005,TV-Y7,167 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s512,Movie,Sample Film 0512,Director 43,Actor 148,United Kingdom,"June 10, 2019",2003,TV-G,174 min,Documentaries,Synthetic sample record for learning data visualization.
+s513,Movie,Sample Film 0513,Director 42,Actor 128,France,"January 28, 2021",1972,R,161 min,Comedies,Synthetic sample record for learning data visualization.
+s514,TV Show,Sample Series 0514,Director 3,Actor 146,"United Kingdom, Germany","March 13, 2020",1985,TV-14,8 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s515,TV Show,Sample Series 0515,Director 56,Actor 105,United Kingdom,"September 6, 2017",2004,TV-G,7 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s516,TV Show,Sample Series 0516,Director 48,Actor 85,France,"December 20, 2018",2009,PG,3 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s517,TV Show,Sample Series 0517,Director 8,Actor 95,India,"March 14, 2017",2002,TV-MA,8 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s518,Movie,Sample Film 0518,Director 37,Actor 33,United States,"December 14, 2016",1989,TV-MA,105 min,International Movies,Synthetic sample record for learning data visualization.
+s519,Movie,Sample Film 0519,Director 59,Actor 81,"United Kingdom, Germany","January 20, 2015",1993,TV-PG,168 min,International Movies,Synthetic sample record for learning data visualization.
+s520,Movie,Sample Film 0520,Director 4,Actor 66,Spain,"March 21, 2015",1973,R,83 min,Dramas,Synthetic sample record for learning data visualization.
+s521,Movie,Sample Film 0521,Director 58,Actor 130,Canada,"March 19, 2016",1996,TV-Y7,99 min,International Movies,Synthetic sample record for learning data visualization.
+s522,TV Show,Sample Series 0522,Director 4,Actor 11,Canada,"March 15, 2018",2015,PG-13,1 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s523,Movie,Sample Film 0523,Director 32,Actor 91,United Kingdom,"March 14, 2016",2005,TV-14,104 min,Dramas,Synthetic sample record for learning data visualization.
+s524,TV Show,Sample Series 0524,Director 13,Actor 101,France,"December 15, 2021",2005,TV-14,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s525,Movie,Sample Film 0525,Director 68,Actor 146,South Korea,"September 25, 2018",2006,TV-14,79 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s526,TV Show,Sample Series 0526,Director 2,Actor 3,South Korea,"January 17, 2015",1957,TV-PG,3 Season,Comedies,Synthetic sample record for learning data visualization.
+s527,TV Show,Sample Series 0527,Director 77,Actor 47,"France, South Korea","December 10, 2015",1992,PG,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s528,Movie,Sample Film 0528,Director 57,Actor 17,Spain,"June 25, 2018",2009,TV-G,168 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s529,Movie,Sample Film 0529,Director 62,Actor 56,Germany,"January 24, 2018",1977,TV-MA,151 min,Comedies,Synthetic sample record for learning data visualization.
+s530,Movie,Sample Film 0530,Director 64,Actor 126,South Korea,"September 24, 2020",1995,TV-PG,73 min,Documentaries,Synthetic sample record for learning data visualization.
+s531,Movie,Sample Film 0531,Director 29,Actor 65,United Kingdom,"June 12, 2017",1962,R,184 min,Dramas,Synthetic sample record for learning data visualization.
+s532,Movie,Sample Film 0532,Director 10,Actor 6,Spain,"June 17, 2021",1994,TV-Y7,179 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s533,Movie,Sample Film 0533,Director 63,Actor 40,Canada,"March 25, 2017",2008,PG,106 min,Comedies,Synthetic sample record for learning data visualization.
+s534,Movie,Sample Film 0534,Director 45,Actor 61,United States,"December 27, 2018",2000,TV-14,70 min,Documentaries,Synthetic sample record for learning data visualization.
+s535,Movie,Sample Film 0535,Director 51,Actor 135,United Kingdom,"March 9, 2020",1995,PG,68 min,Comedies,Synthetic sample record for learning data visualization.
+s536,TV Show,Sample Series 0536,Director 26,Actor 1,France,"December 20, 2020",2013,TV-Y7,5 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s537,Movie,Sample Film 0537,Director 26,Actor 62,Canada,"December 8, 2020",2005,PG,148 min,Documentaries,Synthetic sample record for learning data visualization.
+s538,TV Show,Sample Series 0538,Director 55,Actor 67,Japan,"March 27, 2017",2019,PG-13,5 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s539,Movie,Sample Film 0539,Director 29,Actor 80,Canada,"June 5, 2018",1960,R,123 min,International Movies,Synthetic sample record for learning data visualization.
+s540,TV Show,Sample Series 0540,Director 49,Actor 123,United Kingdom,"January 19, 2021",1992,R,6 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s541,TV Show,Sample Series 0541,Director 56,Actor 102,Australia,"September 7, 2020",2007,PG-13,6 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s542,Movie,Sample Film 0542,Director 61,Actor 27,Spain,"June 5, 2020",2008,PG,107 min,Dramas,Synthetic sample record for learning data visualization.
+s543,Movie,Sample Film 0543,Director 73,Actor 39,France,"September 27, 2016",2005,TV-Y7,143 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s544,Movie,Sample Film 0544,Director 15,Actor 78,Canada,"September 22, 2020",1987,TV-PG,122 min,Comedies,Synthetic sample record for learning data visualization.
+s545,Movie,Sample Film 0545,Director 59,Actor 93,Spain,"January 19, 2021",1999,TV-14,132 min,International Movies,Synthetic sample record for learning data visualization.
+s546,Movie,Sample Film 0546,Director 8,Actor 121,France,"January 13, 2016",2021,TV-PG,176 min,International Movies,Synthetic sample record for learning data visualization.
+s547,Movie,Sample Film 0547,Director 16,Actor 96,Japan,"December 7, 2020",1997,R,181 min,Documentaries,Synthetic sample record for learning data visualization.
+s548,TV Show,Sample Series 0548,Director 9,Actor 38,United Kingdom,"September 10, 2016",2000,TV-14,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s549,Movie,Sample Film 0549,Director 74,Actor 42,Canada,"September 10, 2016",2017,TV-PG,132 min,Documentaries,Synthetic sample record for learning data visualization.
+s550,TV Show,Sample Series 0550,Director 31,Actor 11,United Kingdom,"March 9, 2021",1990,TV-G,1 Season,Dramas,Synthetic sample record for learning data visualization.
+s551,Movie,Sample Film 0551,Director 63,Actor 1,India,"December 23, 2016",2001,PG,103 min,Comedies,Synthetic sample record for learning data visualization.
+s552,TV Show,Sample Series 0552,Director 77,Actor 144,United States,"December 7, 2021",2018,PG,4 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s553,Movie,Sample Film 0553,Director 60,Actor 70,"Germany, United States","December 5, 2017",2011,TV-Y7,139 min,Dramas,Synthetic sample record for learning data visualization.
+s554,TV Show,Sample Series 0554,Director 61,Actor 133,South Korea,"September 14, 2020",1957,TV-MA,2 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s555,Movie,Sample Film 0555,Director 13,Actor 24,United States,"June 11, 2016",1994,TV-MA,86 min,Documentaries,Synthetic sample record for learning data visualization.
+s556,Movie,Sample Film 0556,Director 9,Actor 18,Japan,"June 16, 2018",2002,TV-MA,118 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s557,Movie,Sample Film 0557,Director 34,Actor 150,United States,"September 25, 2019",1985,PG,158 min,Dramas,Synthetic sample record for learning data visualization.
+s558,TV Show,Sample Series 0558,Director 37,Actor 64,Spain,"March 28, 2016",2015,TV-G,2 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s559,Movie,Sample Film 0559,Director 28,Actor 86,United Kingdom,"June 10, 2017",1991,R,116 min,Dramas,Synthetic sample record for learning data visualization.
+s560,TV Show,Sample Series 0560,Director 74,Actor 58,United Kingdom,"September 7, 2016",1997,TV-14,4 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s561,Movie,Sample Film 0561,Director 22,Actor 19,Japan,"January 14, 2019",1991,TV-PG,136 min,Dramas,Synthetic sample record for learning data visualization.
+s562,Movie,Sample Film 0562,Director 49,Actor 140,South Korea,"March 9, 2015",2009,TV-MA,127 min,Comedies,Synthetic sample record for learning data visualization.
+s563,Movie,Sample Film 0563,Director 34,Actor 31,Canada,"March 6, 2018",2010,TV-Y7,140 min,Dramas,Synthetic sample record for learning data visualization.
+s564,TV Show,Sample Series 0564,Director 72,Actor 18,Spain,"January 21, 2015",2018,PG,3 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s565,Movie,Sample Film 0565,Director 65,Actor 12,France,"September 17, 2019",1978,TV-Y7,133 min,Documentaries,Synthetic sample record for learning data visualization.
+s566,Movie,Sample Film 0566,Director 44,Actor 29,"Australia, Germany","June 3, 2021",1997,TV-Y7,180 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s567,Movie,Sample Film 0567,Director 33,Actor 14,"France, Canada","January 26, 2015",1993,TV-MA,181 min,Comedies,Synthetic sample record for learning data visualization.
+s568,TV Show,Sample Series 0568,Director 22,Actor 103,France,"March 26, 2016",2012,PG-13,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s569,TV Show,Sample Series 0569,Director 40,Actor 96,Canada,"September 5, 2019",1960,PG-13,2 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s570,TV Show,Sample Series 0570,Director 76,Actor 116,Japan,"September 24, 2017",2012,TV-Y7,6 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s571,TV Show,Sample Series 0571,Director 1,Actor 38,India,"September 22, 2021",2016,TV-14,7 Season,Comedies,Synthetic sample record for learning data visualization.
+s572,Movie,Sample Film 0572,Director 15,Actor 99,Australia,"September 27, 2018",2009,TV-14,115 min,Dramas,Synthetic sample record for learning data visualization.
+s573,Movie,Sample Film 0573,Director 3,Actor 133,Canada,"January 23, 2015",2013,TV-MA,149 min,Comedies,Synthetic sample record for learning data visualization.
+s574,Movie,Sample Film 0574,Director 41,Actor 23,Spain,"June 21, 2018",1978,PG,132 min,Documentaries,Synthetic sample record for learning data visualization.
+s575,TV Show,Sample Series 0575,Director 44,Actor 70,South Korea,"September 13, 2019",2014,TV-Y7,1 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s576,Movie,Sample Film 0576,Director 32,Actor 10,South Korea,"March 9, 2017",2008,PG,158 min,Comedies,Synthetic sample record for learning data visualization.
+s577,TV Show,Sample Series 0577,Director 64,Actor 95,Germany,"September 2, 2021",1995,TV-G,2 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s578,Movie,Sample Film 0578,Director 6,Actor 19,United States,"January 28, 2016",2007,TV-G,108 min,Documentaries,Synthetic sample record for learning data visualization.
+s579,Movie,Sample Film 0579,Director 72,Actor 73,France,"June 1, 2020",2002,PG,72 min,Dramas,Synthetic sample record for learning data visualization.
+s580,Movie,Sample Film 0580,Director 17,Actor 59,Canada,"January 13, 2021",2006,TV-Y7,168 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s581,TV Show,Sample Series 0581,Director 66,Actor 74,France,"September 19, 2016",1970,TV-PG,1 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s582,Movie,Sample Film 0582,Director 78,Actor 78,Australia,"September 15, 2020",2013,R,75 min,International Movies,Synthetic sample record for learning data visualization.
+s583,Movie,Sample Film 0583,Director 16,Actor 94,India,"December 5, 2021",2010,PG-13,68 min,Comedies,Synthetic sample record for learning data visualization.
+s584,Movie,Sample Film 0584,Director 69,Actor 49,Canada,"March 27, 2020",2011,TV-Y7,144 min,Dramas,Synthetic sample record for learning data visualization.
+s585,Movie,Sample Film 0585,Director 25,Actor 19,India,"September 23, 2017",2021,TV-14,127 min,International Movies,Synthetic sample record for learning data visualization.
+s586,Movie,Sample Film 0586,Director 43,Actor 78,India,"December 2, 2020",2000,TV-14,174 min,Comedies,Synthetic sample record for learning data visualization.
+s587,Movie,Sample Film 0587,Director 32,Actor 69,Canada,"June 2, 2016",2021,TV-Y7,72 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s588,Movie,Sample Film 0588,Director 31,Actor 34,Japan,"September 19, 2021",2007,PG-13,184 min,Documentaries,Synthetic sample record for learning data visualization.
+s589,Movie,Sample Film 0589,Director 56,Actor 141,Germany,"January 9, 2017",1993,TV-PG,80 min,International Movies,Synthetic sample record for learning data visualization.
+s590,Movie,Sample Film 0590,Director 47,Actor 73,"India, South Korea","March 24, 2021",2006,PG-13,119 min,Documentaries,Synthetic sample record for learning data visualization.
+s591,TV Show,Sample Series 0591,Director 26,Actor 11,Canada,"June 17, 2016",2007,TV-PG,2 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s592,TV Show,Sample Series 0592,Director 60,Actor 33,India,"March 19, 2016",1964,R,1 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s593,Movie,Sample Film 0593,Director 33,Actor 135,Japan,"June 5, 2018",1960,TV-14,68 min,Documentaries,Synthetic sample record for learning data visualization.
+s594,Movie,Sample Film 0594,Director 17,Actor 130,United States,"January 21, 2016",2020,R,109 min,International Movies,Synthetic sample record for learning data visualization.
+s595,TV Show,Sample Series 0595,Director 29,Actor 122,Germany,"January 25, 2021",2016,TV-G,2 Season,Documentaries,Synthetic sample record for learning data visualization.
+s596,TV Show,Sample Series 0596,Director 42,Actor 146,Spain,"January 10, 2020",2012,TV-14,2 Season,Dramas,Synthetic sample record for learning data visualization.
+s597,Movie,Sample Film 0597,Director 54,Actor 2,Canada,"March 19, 2017",2012,PG-13,72 min,Dramas,Synthetic sample record for learning data visualization.
+s598,Movie,Sample Film 0598,Director 1,Actor 24,Canada,"December 12, 2018",1986,TV-14,132 min,International Movies,Synthetic sample record for learning data visualization.
+s599,Movie,Sample Film 0599,Director 61,Actor 10,Australia,"June 23, 2015",1995,PG-13,95 min,International Movies,Synthetic sample record for learning data visualization.
+s600,Movie,Sample Film 0600,Director 23,Actor 58,Spain,"September 23, 2020",1986,PG,89 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s601,Movie,Sample Film 0601,Director 77,Actor 92,India,"December 15, 2018",1987,PG-13,85 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s602,TV Show,Sample Series 0602,Director 15,Actor 48,Spain,"January 12, 2015",1996,TV-G,4 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s603,Movie,Sample Film 0603,Director 49,Actor 17,"United Kingdom, India","March 19, 2017",2000,TV-MA,177 min,Dramas,Synthetic sample record for learning data visualization.
+s604,Movie,Sample Film 0604,Director 28,Actor 111,South Korea,"September 7, 2018",2012,TV-G,129 min,Dramas,Synthetic sample record for learning data visualization.
+s605,Movie,Sample Film 0605,Director 42,Actor 139,Australia,"January 25, 2021",2005,PG,104 min,Comedies,Synthetic sample record for learning data visualization.
+s606,TV Show,Sample Series 0606,Director 52,Actor 5,Canada,"January 19, 2016",1972,TV-G,4 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s607,Movie,Sample Film 0607,Director 49,Actor 88,Japan,"December 21, 2017",1998,TV-PG,148 min,International Movies,Synthetic sample record for learning data visualization.
+s608,Movie,Sample Film 0608,Director 30,Actor 125,India,"September 13, 2021",2012,TV-Y7,116 min,Dramas,Synthetic sample record for learning data visualization.
+s609,TV Show,Sample Series 0609,Director 76,Actor 9,South Korea,"September 1, 2020",2012,PG-13,6 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s610,TV Show,Sample Series 0610,Director 61,Actor 25,Germany,"January 12, 2015",2000,PG,6 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s611,TV Show,Sample Series 0611,Director 25,Actor 39,"South Korea, United Kingdom","September 22, 2021",2016,PG,2 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s612,Movie,Sample Film 0612,Director 39,Actor 67,United States,"January 26, 2020",2018,PG-13,95 min,International Movies,Synthetic sample record for learning data visualization.
+s613,TV Show,Sample Series 0613,Director 12,Actor 131,Japan,"March 1, 2017",2012,TV-G,1 Season,Documentaries,Synthetic sample record for learning data visualization.
+s614,Movie,Sample Film 0614,Director 76,Actor 36,France,"September 1, 2020",1999,TV-PG,111 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s615,TV Show,Sample Series 0615,Director 4,Actor 28,India,"March 6, 2016",2014,TV-14,2 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s616,TV Show,Sample Series 0616,Director 33,Actor 83,Canada,"September 6, 2015",2003,TV-MA,1 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s617,Movie,Sample Film 0617,Director 43,Actor 57,South Korea,"September 13, 2017",1992,R,147 min,Documentaries,Synthetic sample record for learning data visualization.
+s618,TV Show,Sample Series 0618,Director 53,Actor 76,United Kingdom,"June 27, 2015",2019,PG,3 Season,Documentaries,Synthetic sample record for learning data visualization.
+s619,Movie,Sample Film 0619,Director 18,Actor 116,United Kingdom,"September 14, 2018",2020,TV-14,128 min,Comedies,Synthetic sample record for learning data visualization.
+s620,Movie,Sample Film 0620,Director 6,Actor 70,South Korea,"December 13, 2020",1996,TV-Y7,150 min,Comedies,Synthetic sample record for learning data visualization.
+s621,TV Show,Sample Series 0621,Director 6,Actor 40,Australia,"December 3, 2018",2008,PG,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s622,Movie,Sample Film 0622,Director 67,Actor 107,France,"June 18, 2021",1993,TV-PG,65 min,Comedies,Synthetic sample record for learning data visualization.
+s623,Movie,Sample Film 0623,Director 73,Actor 63,United States,"January 19, 2021",1994,TV-G,127 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s624,TV Show,Sample Series 0624,Director 36,Actor 96,"South Korea, United States","January 13, 2020",2010,TV-Y7,7 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s625,TV Show,Sample Series 0625,Director 34,Actor 87,India,"December 15, 2016",1993,TV-PG,7 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s626,Movie,Sample Film 0626,Director 78,Actor 69,"France, United States","September 25, 2018",1986,TV-MA,109 min,Comedies,Synthetic sample record for learning data visualization.
+s627,Movie,Sample Film 0627,Director 69,Actor 11,South Korea,"September 5, 2016",1974,TV-Y7,82 min,Dramas,Synthetic sample record for learning data visualization.
+s628,Movie,Sample Film 0628,Director 46,Actor 101,Japan,"January 21, 2021",1991,TV-G,113 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s629,Movie,Sample Film 0629,Director 9,Actor 91,South Korea,"September 10, 2019",1989,TV-PG,140 min,Comedies,Synthetic sample record for learning data visualization.
+s630,Movie,Sample Film 0630,Director 77,Actor 23,South Korea,"December 11, 2017",2020,TV-MA,173 min,Comedies,Synthetic sample record for learning data visualization.
+s631,Movie,Sample Film 0631,Director 69,Actor 42,India,"September 13, 2020",1989,TV-G,110 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s632,Movie,Sample Film 0632,Director 56,Actor 127,Germany,"March 28, 2020",1997,PG-13,106 min,Comedies,Synthetic sample record for learning data visualization.
+s633,Movie,Sample Film 0633,Director 30,Actor 116,India,"March 21, 2017",2010,TV-14,177 min,International Movies,Synthetic sample record for learning data visualization.
+s634,Movie,Sample Film 0634,Director 44,Actor 42,Spain,"January 14, 2020",1971,PG-13,66 min,International Movies,Synthetic sample record for learning data visualization.
+s635,Movie,Sample Film 0635,Director 16,Actor 46,Japan,"September 11, 2019",2018,R,110 min,International Movies,Synthetic sample record for learning data visualization.
+s636,Movie,Sample Film 0636,Director 33,Actor 106,Canada,"December 7, 2015",2008,TV-G,118 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s637,TV Show,Sample Series 0637,Director 60,Actor 83,Japan,"December 12, 2020",1999,TV-PG,3 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s638,Movie,Sample Film 0638,Director 71,Actor 76,United Kingdom,"December 28, 2021",2020,PG,144 min,Dramas,Synthetic sample record for learning data visualization.
+s639,Movie,Sample Film 0639,Director 20,Actor 83,South Korea,"June 16, 2016",1997,TV-PG,156 min,International Movies,Synthetic sample record for learning data visualization.
+s640,Movie,Sample Film 0640,Director 5,Actor 94,South Korea,"December 24, 2017",2021,TV-14,150 min,Dramas,Synthetic sample record for learning data visualization.
+s641,TV Show,Sample Series 0641,Director 24,Actor 109,"Australia, United States","January 5, 2017",1977,PG,4 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s642,Movie,Sample Film 0642,Director 38,Actor 93,South Korea,"December 6, 2016",2018,TV-G,184 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s643,TV Show,Sample Series 0643,Director 18,Actor 146,United Kingdom,"June 1, 2018",1992,PG,5 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s644,TV Show,Sample Series 0644,Director 75,Actor 1,Spain,"June 25, 2019",1987,TV-14,3 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s645,TV Show,Sample Series 0645,Director 65,Actor 146,United Kingdom,"September 2, 2020",2006,R,6 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s646,TV Show,Sample Series 0646,Director 54,Actor 125,"Japan, United Kingdom","June 24, 2015",1995,TV-PG,8 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s647,Movie,Sample Film 0647,Director 13,Actor 38,Canada,"December 1, 2019",1989,PG-13,86 min,Documentaries,Synthetic sample record for learning data visualization.
+s648,Movie,Sample Film 0648,Director 61,Actor 53,United Kingdom,"December 21, 2019",2003,TV-Y7,137 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s649,TV Show,Sample Series 0649,Director 46,Actor 80,France,"June 4, 2020",1985,PG,7 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s650,Movie,Sample Film 0650,Director 41,Actor 83,"Japan, United States","March 9, 2020",1975,TV-G,124 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s651,Movie,Sample Film 0651,Director 53,Actor 148,France,"December 28, 2017",2006,PG,165 min,Documentaries,Synthetic sample record for learning data visualization.
+s652,Movie,Sample Film 0652,Director 48,Actor 99,Germany,"June 14, 2018",1996,PG-13,107 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s653,Movie,Sample Film 0653,Director 57,Actor 46,Spain,"January 19, 2017",2010,TV-MA,100 min,International Movies,Synthetic sample record for learning data visualization.
+s654,TV Show,Sample Series 0654,Director 16,Actor 129,South Korea,"December 2, 2019",1991,PG-13,6 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s655,Movie,Sample Film 0655,Director 53,Actor 15,France,"September 21, 2020",1985,TV-G,140 min,Documentaries,Synthetic sample record for learning data visualization.
+s656,TV Show,Sample Series 0656,Director 67,Actor 125,South Korea,"June 7, 2019",2000,PG,4 Season,Comedies,Synthetic sample record for learning data visualization.
+s657,TV Show,Sample Series 0657,Director 50,Actor 142,"Australia, United States","March 20, 2020",2001,R,5 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s658,Movie,Sample Film 0658,Director 70,Actor 81,India,"December 2, 2015",2005,TV-Y7,184 min,International Movies,Synthetic sample record for learning data visualization.
+s659,Movie,Sample Film 0659,Director 67,Actor 57,"Spain, Australia","March 5, 2020",1998,R,157 min,International Movies,Synthetic sample record for learning data visualization.
+s660,Movie,Sample Film 0660,Director 28,Actor 20,Australia,"June 21, 2017",1986,TV-MA,71 min,Comedies,Synthetic sample record for learning data visualization.
+s661,Movie,Sample Film 0661,Director 61,Actor 138,India,"March 17, 2017",2006,TV-PG,94 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s662,TV Show,Sample Series 0662,Director 79,Actor 132,South Korea,"June 9, 2017",2003,TV-MA,5 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s663,Movie,Sample Film 0663,Director 80,Actor 53,United Kingdom,"June 11, 2016",1996,TV-PG,133 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s664,TV Show,Sample Series 0664,Director 60,Actor 98,South Korea,"March 6, 2018",1997,TV-14,1 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s665,Movie,Sample Film 0665,Director 1,Actor 12,South Korea,"January 18, 2017",2011,TV-Y7,171 min,Comedies,Synthetic sample record for learning data visualization.
+s666,Movie,Sample Film 0666,Director 54,Actor 115,Canada,"December 1, 2015",2007,PG,77 min,Dramas,Synthetic sample record for learning data visualization.
+s667,Movie,Sample Film 0667,Director 76,Actor 126,Germany,"September 1, 2017",2000,R,122 min,International Movies,Synthetic sample record for learning data visualization.
+s668,Movie,Sample Film 0668,Director 50,Actor 123,India,"March 25, 2016",2006,TV-14,140 min,Comedies,Synthetic sample record for learning data visualization.
+s669,TV Show,Sample Series 0669,Director 40,Actor 127,Australia,"June 15, 2021",2011,PG-13,5 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s670,Movie,Sample Film 0670,Director 72,Actor 39,France,"June 9, 2018",2019,R,87 min,Dramas,Synthetic sample record for learning data visualization.
+s671,TV Show,Sample Series 0671,Director 36,Actor 76,Japan,"September 11, 2021",1996,TV-14,3 Season,Documentaries,Synthetic sample record for learning data visualization.
+s672,TV Show,Sample Series 0672,Director 60,Actor 7,Japan,"March 14, 2016",2020,PG-13,2 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s673,TV Show,Sample Series 0673,Director 8,Actor 34,Germany,"March 25, 2016",2017,TV-G,4 Season,Dramas,Synthetic sample record for learning data visualization.
+s674,Movie,Sample Film 0674,Director 37,Actor 125,Japan,"January 4, 2017",2014,PG-13,141 min,Documentaries,Synthetic sample record for learning data visualization.
+s675,TV Show,Sample Series 0675,Director 25,Actor 147,United States,"January 11, 2020",2020,PG,8 Season,Comedies,Synthetic sample record for learning data visualization.
+s676,Movie,Sample Film 0676,Director 76,Actor 136,Japan,"January 25, 2017",1982,PG-13,77 min,Dramas,Synthetic sample record for learning data visualization.
+s677,TV Show,Sample Series 0677,Director 3,Actor 121,Spain,"June 20, 2021",2020,TV-G,3 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s678,Movie,Sample Film 0678,Director 61,Actor 137,United Kingdom,"June 27, 2021",2019,TV-MA,175 min,Comedies,Synthetic sample record for learning data visualization.
+s679,TV Show,Sample Series 0679,Director 14,Actor 12,Australia,"December 10, 2021",1999,TV-Y7,7 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s680,TV Show,Sample Series 0680,Director 63,Actor 2,United States,"March 15, 2015",1992,R,2 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s681,Movie,Sample Film 0681,Director 71,Actor 132,Canada,"June 21, 2016",1978,TV-14,74 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s682,Movie,Sample Film 0682,Director 27,Actor 94,Spain,"June 14, 2020",1985,PG,158 min,Comedies,Synthetic sample record for learning data visualization.
+s683,Movie,Sample Film 0683,Director 29,Actor 143,Germany,"June 14, 2019",2000,TV-PG,170 min,Documentaries,Synthetic sample record for learning data visualization.
+s684,Movie,Sample Film 0684,Director 22,Actor 146,South Korea,"March 27, 2019",1967,TV-MA,94 min,International Movies,Synthetic sample record for learning data visualization.
+s685,Movie,Sample Film 0685,Director 50,Actor 57,France,"December 23, 2019",2014,TV-MA,138 min,Documentaries,Synthetic sample record for learning data visualization.
+s686,Movie,Sample Film 0686,Director 29,Actor 17,United Kingdom,"June 4, 2019",2017,R,158 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s687,TV Show,Sample Series 0687,Director 44,Actor 132,Germany,"September 10, 2015",1991,PG-13,1 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s688,Movie,Sample Film 0688,Director 36,Actor 146,India,"December 6, 2021",2002,TV-PG,144 min,Documentaries,Synthetic sample record for learning data visualization.
+s689,TV Show,Sample Series 0689,Director 34,Actor 140,Australia,"June 22, 2021",1994,TV-Y7,4 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s690,Movie,Sample Film 0690,Director 59,Actor 97,Japan,"September 21, 2015",1952,PG,76 min,Dramas,Synthetic sample record for learning data visualization.
+s691,TV Show,Sample Series 0691,Director 54,Actor 95,South Korea,"December 27, 2016",2012,R,2 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s692,TV Show,Sample Series 0692,Director 64,Actor 55,United Kingdom,"June 1, 2019",1969,PG,4 Season,Documentaries,Synthetic sample record for learning data visualization.
+s693,TV Show,Sample Series 0693,Director 43,Actor 127,Canada,"December 23, 2015",1988,TV-MA,1 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s694,Movie,Sample Film 0694,Director 17,Actor 89,United States,"June 24, 2016",1973,TV-MA,99 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s695,Movie,Sample Film 0695,Director 26,Actor 29,Spain,"January 5, 2018",1994,R,75 min,Dramas,Synthetic sample record for learning data visualization.
+s696,TV Show,Sample Series 0696,Director 14,Actor 13,Canada,"December 7, 2020",1982,PG-13,1 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s697,TV Show,Sample Series 0697,Director 27,Actor 148,South Korea,"January 28, 2016",1988,TV-MA,6 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s698,TV Show,Sample Series 0698,Director 75,Actor 44,South Korea,"January 23, 2018",1989,TV-G,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s699,Movie,Sample Film 0699,Director 32,Actor 4,Spain,"June 14, 2016",1967,TV-MA,155 min,Comedies,Synthetic sample record for learning data visualization.
+s700,Movie,Sample Film 0700,Director 65,Actor 28,South Korea,"January 5, 2021",1987,TV-MA,81 min,Comedies,Synthetic sample record for learning data visualization.
+s701,TV Show,Sample Series 0701,Director 8,Actor 88,India,"June 4, 2021",2004,R,7 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s702,Movie,Sample Film 0702,Director 31,Actor 39,Australia,"June 9, 2020",1989,TV-MA,162 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s703,Movie,Sample Film 0703,Director 74,Actor 69,France,"June 24, 2019",2019,PG,69 min,International Movies,Synthetic sample record for learning data visualization.
+s704,TV Show,Sample Series 0704,Director 53,Actor 136,Spain,"September 2, 2021",1990,TV-G,5 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s705,Movie,Sample Film 0705,Director 8,Actor 86,India,"March 17, 2021",1995,PG,103 min,Dramas,Synthetic sample record for learning data visualization.
+s706,Movie,Sample Film 0706,Director 16,Actor 109,Japan,"September 7, 2016",2015,TV-Y7,170 min,Dramas,Synthetic sample record for learning data visualization.
+s707,TV Show,Sample Series 0707,Director 57,Actor 71,United States,"March 2, 2017",1978,TV-MA,1 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s708,Movie,Sample Film 0708,Director 10,Actor 28,United Kingdom,"December 4, 2016",2004,TV-Y7,170 min,Dramas,Synthetic sample record for learning data visualization.
+s709,Movie,Sample Film 0709,Director 58,Actor 117,Canada,"December 19, 2018",2011,TV-G,172 min,Documentaries,Synthetic sample record for learning data visualization.
+s710,Movie,Sample Film 0710,Director 67,Actor 92,United States,"January 20, 2015",2020,TV-PG,162 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s711,Movie,Sample Film 0711,Director 37,Actor 134,Canada,"December 19, 2015",1999,TV-Y7,65 min,Documentaries,Synthetic sample record for learning data visualization.
+s712,TV Show,Sample Series 0712,Director 54,Actor 67,"South Korea, United Kingdom","December 12, 2017",1958,TV-Y7,6 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s713,Movie,Sample Film 0713,Director 60,Actor 14,Japan,"June 22, 2021",2002,PG,158 min,Comedies,Synthetic sample record for learning data visualization.
+s714,TV Show,Sample Series 0714,Director 61,Actor 58,Germany,"December 28, 2015",1991,PG,7 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s715,Movie,Sample Film 0715,Director 9,Actor 126,India,"September 27, 2015",2013,R,73 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s716,TV Show,Sample Series 0716,Director 48,Actor 128,South Korea,"December 20, 2017",1996,TV-Y7,5 Seasons,Documentaries,Synthetic sample record for learning data visualization.
+s717,Movie,Sample Film 0717,Director 19,Actor 125,United States,"June 20, 2018",2010,PG-13,151 min,Documentaries,Synthetic sample record for learning data visualization.
+s718,Movie,Sample Film 0718,Director 22,Actor 3,France,"June 6, 2017",1990,PG,93 min,Comedies,Synthetic sample record for learning data visualization.
+s719,TV Show,Sample Series 0719,Director 52,Actor 33,South Korea,"December 28, 2017",1989,R,6 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s720,Movie,Sample Film 0720,Director 2,Actor 32,Germany,"January 10, 2016",1990,TV-14,89 min,Comedies,Synthetic sample record for learning data visualization.
+s721,Movie,Sample Film 0721,Director 6,Actor 16,Germany,"December 18, 2015",1961,R,139 min,Comedies,Synthetic sample record for learning data visualization.
+s722,Movie,Sample Film 0722,Director 71,Actor 90,United Kingdom,"December 16, 2020",2002,PG-13,74 min,Documentaries,Synthetic sample record for learning data visualization.
+s723,Movie,Sample Film 0723,Director 16,Actor 93,United Kingdom,"January 7, 2015",1994,TV-G,145 min,Dramas,Synthetic sample record for learning data visualization.
+s724,Movie,Sample Film 0724,Director 35,Actor 9,Germany,"January 21, 2021",2019,TV-14,139 min,International Movies,Synthetic sample record for learning data visualization.
+s725,Movie,Sample Film 0725,Director 59,Actor 113,United Kingdom,"March 12, 2020",2013,TV-G,125 min,International Movies,Synthetic sample record for learning data visualization.
+s726,Movie,Sample Film 0726,Director 59,Actor 143,United Kingdom,"December 12, 2016",1964,PG,130 min,Comedies,Synthetic sample record for learning data visualization.
+s727,Movie,Sample Film 0727,Director 71,Actor 42,Germany,"June 18, 2021",2012,TV-14,94 min,International Movies,Synthetic sample record for learning data visualization.
+s728,Movie,Sample Film 0728,Director 44,Actor 106,Germany,"September 13, 2020",1995,PG,85 min,Documentaries,Synthetic sample record for learning data visualization.
+s729,Movie,Sample Film 0729,Director 12,Actor 72,Canada,"March 18, 2015",2013,PG,65 min,Comedies,Synthetic sample record for learning data visualization.
+s730,Movie,Sample Film 0730,Director 70,Actor 21,Japan,"June 17, 2020",2020,PG-13,117 min,Comedies,Synthetic sample record for learning data visualization.
+s731,Movie,Sample Film 0731,Director 73,Actor 76,"South Korea, Spain","December 11, 2020",1993,PG-13,180 min,Comedies,Synthetic sample record for learning data visualization.
+s732,Movie,Sample Film 0732,Director 70,Actor 139,Spain,"January 16, 2019",1990,TV-Y7,126 min,Documentaries,Synthetic sample record for learning data visualization.
+s733,TV Show,Sample Series 0733,Director 46,Actor 149,"India, Canada","December 19, 2018",1985,TV-14,6 Season,Documentaries,Synthetic sample record for learning data visualization.
+s734,Movie,Sample Film 0734,Director 26,Actor 120,India,"June 5, 2019",2000,TV-MA,110 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s735,Movie,Sample Film 0735,Director 39,Actor 101,South Korea,"January 15, 2020",1993,PG,153 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s736,TV Show,Sample Series 0736,Director 41,Actor 68,Australia,"January 1, 2016",1952,R,6 Season,Action & Adventure,Synthetic sample record for learning data visualization.
+s737,Movie,Sample Film 0737,Director 55,Actor 139,"India, South Korea","January 17, 2016",2014,TV-G,185 min,Dramas,Synthetic sample record for learning data visualization.
+s738,Movie,Sample Film 0738,Director 15,Actor 51,United States,"June 2, 2018",2019,PG-13,87 min,Comedies,Synthetic sample record for learning data visualization.
+s739,Movie,Sample Film 0739,Director 41,Actor 50,Japan,"March 18, 2021",2000,R,143 min,Comedies,Synthetic sample record for learning data visualization.
+s740,Movie,Sample Film 0740,Director 67,Actor 61,Spain,"June 15, 2021",1997,TV-MA,169 min,International Movies,Synthetic sample record for learning data visualization.
+s741,Movie,Sample Film 0741,Director 28,Actor 38,Australia,"January 12, 2017",1997,R,129 min,Documentaries,Synthetic sample record for learning data visualization.
+s742,TV Show,Sample Series 0742,Director 37,Actor 79,South Korea,"December 1, 2021",1989,PG,3 Season,Documentaries,Synthetic sample record for learning data visualization.
+s743,Movie,Sample Film 0743,Director 54,Actor 122,"Australia, Germany","December 13, 2016",1983,TV-14,119 min,International Movies,Synthetic sample record for learning data visualization.
+s744,Movie,Sample Film 0744,Director 51,Actor 83,India,"December 1, 2021",1971,TV-14,144 min,Comedies,Synthetic sample record for learning data visualization.
+s745,Movie,Sample Film 0745,Director 69,Actor 12,Australia,"March 6, 2020",1971,TV-G,65 min,Comedies,Synthetic sample record for learning data visualization.
+s746,Movie,Sample Film 0746,Director 43,Actor 105,Canada,"June 13, 2018",2001,PG-13,119 min,Comedies,Synthetic sample record for learning data visualization.
+s747,TV Show,Sample Series 0747,Director 44,Actor 57,Spain,"June 8, 2016",1952,TV-G,3 Seasons,Dramas,Synthetic sample record for learning data visualization.
+s748,Movie,Sample Film 0748,Director 29,Actor 23,United States,"March 13, 2017",1994,PG-13,185 min,Dramas,Synthetic sample record for learning data visualization.
+s749,Movie,Sample Film 0749,Director 71,Actor 63,Australia,"January 9, 2015",2011,TV-Y7,106 min,Dramas,Synthetic sample record for learning data visualization.
+s750,TV Show,Sample Series 0750,Director 21,Actor 119,"France, Canada","December 18, 2021",1965,R,6 Season,Comedies,Synthetic sample record for learning data visualization.
+s751,Movie,Sample Film 0751,Director 18,Actor 56,"Spain, South Korea","March 19, 2016",1987,TV-PG,127 min,Documentaries,Synthetic sample record for learning data visualization.
+s752,Movie,Sample Film 0752,Director 54,Actor 68,United Kingdom,"January 26, 2017",1998,TV-G,73 min,Documentaries,Synthetic sample record for learning data visualization.
+s753,Movie,Sample Film 0753,Director 20,Actor 91,South Korea,"March 18, 2016",1987,PG,88 min,Comedies,Synthetic sample record for learning data visualization.
+s754,TV Show,Sample Series 0754,Director 48,Actor 37,Germany,"June 3, 2016",1993,PG-13,3 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s755,Movie,Sample Film 0755,Director 76,Actor 2,South Korea,"June 15, 2018",1994,PG-13,173 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s756,TV Show,Sample Series 0756,Director 15,Actor 106,"Germany, Canada","March 17, 2015",1990,PG,7 Season,Documentaries,Synthetic sample record for learning data visualization.
+s757,Movie,Sample Film 0757,Director 6,Actor 90,India,"June 22, 2018",1957,TV-PG,163 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s758,TV Show,Sample Series 0758,Director 10,Actor 52,India,"June 27, 2015",1991,TV-G,5 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s759,Movie,Sample Film 0759,Director 59,Actor 100,United States,"June 27, 2015",2019,TV-14,164 min,International Movies,Synthetic sample record for learning data visualization.
+s760,TV Show,Sample Series 0760,Director 72,Actor 7,United States,"January 4, 2017",2014,PG,5 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s761,Movie,Sample Film 0761,Director 41,Actor 78,"United Kingdom, Japan","March 5, 2017",1999,TV-MA,139 min,International Movies,Synthetic sample record for learning data visualization.
+s762,TV Show,Sample Series 0762,Director 76,Actor 25,Canada,"March 7, 2018",2014,PG,6 Season,Dramas,Synthetic sample record for learning data visualization.
+s763,Movie,Sample Film 0763,Director 16,Actor 93,United States,"December 27, 2021",1990,TV-PG,184 min,International Movies,Synthetic sample record for learning data visualization.
+s764,TV Show,Sample Series 0764,Director 12,Actor 83,"Germany, United Kingdom","June 26, 2015",1974,TV-MA,4 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s765,Movie,Sample Film 0765,Director 12,Actor 99,"Canada, Germany","June 8, 2019",1991,TV-PG,126 min,International Movies,Synthetic sample record for learning data visualization.
+s766,Movie,Sample Film 0766,Director 20,Actor 24,South Korea,"June 4, 2021",1956,TV-PG,165 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s767,Movie,Sample Film 0767,Director 74,Actor 120,Germany,"January 20, 2018",1999,TV-PG,163 min,International Movies,Synthetic sample record for learning data visualization.
+s768,Movie,Sample Film 0768,Director 14,Actor 143,United Kingdom,"June 17, 2016",2018,TV-G,113 min,Documentaries,Synthetic sample record for learning data visualization.
+s769,TV Show,Sample Series 0769,Director 77,Actor 4,"Canada, Spain","March 18, 2020",1994,TV-14,6 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s770,Movie,Sample Film 0770,Director 76,Actor 15,Japan,"June 12, 2017",1989,TV-Y7,171 min,International Movies,Synthetic sample record for learning data visualization.
+s771,Movie,Sample Film 0771,Director 73,Actor 12,Japan,"September 28, 2017",2016,TV-G,77 min,International Movies,Synthetic sample record for learning data visualization.
+s772,Movie,Sample Film 0772,Director 26,Actor 21,Australia,"January 21, 2016",2000,R,115 min,Dramas,Synthetic sample record for learning data visualization.
+s773,Movie,Sample Film 0773,Director 56,Actor 50,Spain,"December 28, 2020",1989,TV-PG,168 min,Dramas,Synthetic sample record for learning data visualization.
+s774,Movie,Sample Film 0774,Director 53,Actor 145,France,"June 19, 2018",2002,TV-G,182 min,Comedies,Synthetic sample record for learning data visualization.
+s775,TV Show,Sample Series 0775,Director 28,Actor 127,Japan,"June 22, 2015",1988,PG-13,2 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s776,TV Show,Sample Series 0776,Director 46,Actor 110,India,"December 15, 2018",2006,R,5 Seasons,Comedies,Synthetic sample record for learning data visualization.
+s777,TV Show,Sample Series 0777,Director 36,Actor 122,Germany,"June 28, 2015",1973,TV-Y7,1 Season,International Movies,Synthetic sample record for learning data visualization.
+s778,Movie,Sample Film 0778,Director 36,Actor 2,United States,"December 21, 2016",1968,PG,92 min,Documentaries,Synthetic sample record for learning data visualization.
+s779,TV Show,Sample Series 0779,Director 63,Actor 75,South Korea,"March 9, 2015",1988,PG,1 Seasons,International Movies,Synthetic sample record for learning data visualization.
+s780,Movie,Sample Film 0780,Director 23,Actor 139,United Kingdom,"January 6, 2018",2009,PG,88 min,International Movies,Synthetic sample record for learning data visualization.
+s781,Movie,Sample Film 0781,Director 9,Actor 94,"Canada, Spain","June 3, 2015",2006,TV-G,97 min,International Movies,Synthetic sample record for learning data visualization.
+s782,Movie,Sample Film 0782,Director 22,Actor 48,"Germany, United Kingdom","June 19, 2016",2005,TV-Y7,101 min,Action & Adventure,Synthetic sample record for learning data visualization.
+s783,Movie,Sample Film 0783,Director 54,Actor 69,Japan,"September 27, 2016",1997,TV-G,114 min,Documentaries,Synthetic sample record for learning data visualization.
+s784,Movie,Sample Film 0784,Director 40,Actor 108,Japan,"June 3, 2020",2017,TV-PG,172 min,Comedies,Synthetic sample record for learning data visualization.
+s785,Movie,Sample Film 0785,Director 63,Actor 149,United Kingdom,"September 23, 2021",2016,TV-MA,128 min,Dramas,Synthetic sample record for learning data visualization.
+s786,Movie,Sample Film 0786,Director 61,Actor 78,Australia,"March 28, 2015",2016,TV-Y7,133 min,International Movies,Synthetic sample record for learning data visualization.
+s787,Movie,Sample Film 0787,Director 66,Actor 63,Canada,"January 19, 2018",2016,TV-MA,127 min,Comedies,Synthetic sample record for learning data visualization.
+s788,Movie,Sample Film 0788,Director 28,Actor 74,India,"September 13, 2020",1987,R,181 min,Comedies,Synthetic sample record for learning data visualization.
+s789,Movie,Sample Film 0789,Director 37,Actor 126,South Korea,"June 15, 2015",2015,TV-14,94 min,International Movies,Synthetic sample record for learning data visualization.
+s790,Movie,Sample Film 0790,Director 68,Actor 7,Spain,"June 11, 2017",2016,TV-Y7,129 min,Dramas,Synthetic sample record for learning data visualization.
+s791,Movie,Sample Film 0791,Director 40,Actor 127,South Korea,"September 7, 2016",1992,TV-G,72 min,Documentaries,Synthetic sample record for learning data visualization.
+s792,Movie,Sample Film 0792,Director 65,Actor 68,United Kingdom,"June 26, 2021",1987,PG,109 min,Comedies,Synthetic sample record for learning data visualization.
+s793,Movie,Sample Film 0793,Director 31,Actor 32,United States,"March 16, 2020",2016,TV-14,115 min,Comedies,Synthetic sample record for learning data visualization.
+s794,Movie,Sample Film 0794,Director 10,Actor 126,United Kingdom,"March 12, 2018",1993,TV-Y7,81 min,International Movies,Synthetic sample record for learning data visualization.
+s795,Movie,Sample Film 0795,Director 5,Actor 82,Japan,"September 8, 2020",2010,TV-14,182 min,Documentaries,Synthetic sample record for learning data visualization.
+s796,Movie,Sample Film 0796,Director 56,Actor 16,Canada,"January 9, 2019",2008,TV-PG,145 min,Documentaries,Synthetic sample record for learning data visualization.
+s797,TV Show,Sample Series 0797,Director 60,Actor 101,United States,"December 26, 2015",2006,PG,1 Seasons,Action & Adventure,Synthetic sample record for learning data visualization.
+s798,Movie,Sample Film 0798,Director 16,Actor 83,Germany,"June 9, 2016",1995,TV-14,179 min,Comedies,Synthetic sample record for learning data visualization.
+s799,Movie,Sample Film 0799,Director 69,Actor 16,France,"January 24, 2015",2018,PG,107 min,Documentaries,Synthetic sample record for learning data visualization.
+s800,Movie,Sample Film 0800,Director 56,Actor 6,United States,"March 1, 2017",2021,R,161 min,International Movies,Synthetic sample record for learning data visualization.
